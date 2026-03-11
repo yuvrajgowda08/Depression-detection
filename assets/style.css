@@ -1,0 +1,159 @@
+/* ---------- GLOBAL BACKGROUND ---------- */
+
+body {
+    background: linear-gradient(135deg,#e3f2fd,#fce4ec,#f3e5f5);
+    background-attachment: fixed;
+    font-family: "Segoe UI", sans-serif;
+}
+
+/* Hide Streamlit default menu/footer */
+
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+
+/* ---------- MAIN TITLE ---------- */
+
+.main-title{
+    font-size:60px;
+    font-weight:800;
+    text-align:center;
+    color:#2a6fdb;
+    margin-top:20px;
+    margin-bottom:10px;
+    animation: fadeIn 1.2s ease-in-out;
+}
+
+
+/* ---------- SUBTITLE ---------- */
+
+.subtitle{
+    text-align:center;
+    font-size:20px;
+    color:#555;
+    margin-bottom:40px;
+    animation: fadeIn 2s ease-in-out;
+}
+
+
+/* ---------- CARD STYLE ---------- */
+
+.card{
+    background:white;
+    padding:25px;
+    border-radius:20px;
+    box-shadow:0px 10px 25px rgba(0,0,0,0.12);
+    transition:all 0.3s ease;
+    margin-bottom:20px;
+}
+
+.card:hover{
+    transform:translateY(-6px);
+    box-shadow:0px 20px 40px rgba(0,0,0,0.15);
+}
+
+
+/* ---------- BUTTON STYLE ---------- */
+
+.stButton > button{
+    background: linear-gradient(90deg,#4facfe,#00f2fe);
+    color:white;
+    border:none;
+    border-radius:12px;
+    padding:12px 25px;
+    font-size:16px;
+    font-weight:600;
+    transition:all 0.3s ease;
+}
+
+.stButton > button:hover{
+    transform:scale(1.05);
+    box-shadow:0px 8px 18px rgba(0,0,0,0.25);
+}
+
+
+/* ---------- TEXT AREA ---------- */
+
+textarea{
+    border-radius:15px !important;
+    border:1px solid #ddd !important;
+    padding:10px !important;
+}
+
+
+/* ---------- INPUT BOX ---------- */
+
+input{
+    border-radius:12px !important;
+}
+
+
+/* ---------- CHAT MESSAGE STYLE ---------- */
+
+.chat-user{
+    background:#e3f2fd;
+    padding:12px;
+    border-radius:12px;
+    margin-bottom:8px;
+}
+
+.chat-bot{
+    background:#f1f8e9;
+    padding:12px;
+    border-radius:12px;
+    margin-bottom:8px;
+}
+
+
+/* ---------- CHART CONTAINER ---------- */
+
+.chart-container{
+    background:white;
+    padding:20px;
+    border-radius:18px;
+    box-shadow:0px 8px 20px rgba(0,0,0,0.1);
+}
+
+
+/* ---------- SUCCESS MESSAGE ---------- */
+
+.success-box{
+    background:#e8f5e9;
+    padding:15px;
+    border-radius:12px;
+    color:#2e7d32;
+    font-weight:600;
+}
+
+
+/* ---------- WARNING MESSAGE ---------- */
+
+.warning-box{
+    background:#fff3e0;
+    padding:15px;
+    border-radius:12px;
+    color:#ef6c00;
+    font-weight:600;
+}
+
+
+/* ---------- ANIMATIONS ---------- */
+
+@keyframes fadeIn {
+    from{
+        opacity:0;
+        transform:translateY(15px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+
+/* ---------- SMOOTH SCROLL ---------- */
+
+html {
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,1885 @@
+user_id,window_id,domain,label,window_start,window_end,text,n_posts
+24,0,unknown,0,2024-02-07,2024-02-12,I had a great day today </s> I enjoyed spending time with friends,2
+24,7,unknown,1,2024-05-17,2024-05-17,I feel very sad and lonely,1
+24,8,unknown,0,2024-06-06,2024-06-06,Today was productive and fun,1
+24,15,unknown,0,2024-09-05,2024-09-05,I feel happy and motivated,1
+30,0,unknown,1,2024-03-09,2024-03-09,I feel empty inside,1
+30,8,unknown,1,2024-07-10,2024-07-10,Nothing makes me happy anymore,1
+30,16,unknown,1,2024-10-23,2024-10-23,I feel very sad and lonely,1
+30,17,unknown,1,2024-11-12,2024-11-12,I feel tired of everything,1
+30,18,unknown,1,2024-11-18,2024-11-18,I feel like nobody understands me,1
+31,0,unknown,0,2024-02-09,2024-02-09,Today was a relaxing day,1
+31,7,unknown,1,2024-05-19,2024-05-19,I have no motivation anymore,1
+33,0,unknown,0,2024-01-06,2024-01-06,Today was a relaxing day,1
+33,23,unknown,0,2024-11-28,2024-11-28,I had a great day today,1
+33,25,unknown,1,2024-12-22,2024-12-22,Nothing makes me happy anymore,1
+45,0,unknown,0,2024-01-07,2024-01-07,Today was a relaxing day,1
+45,0,unknown,1,2024-01-06,2024-01-06,I feel hopeless about my future,1
+45,13,unknown,1,2024-07-12,2024-07-12,I feel tired of everything,1
+45,14,unknown,1,2024-08-01,2024-08-01,I feel very sad and lonely,1
+45,19,unknown,1,2024-10-05,2024-10-05,I feel hopeless about my future,1
+45,22,unknown,1,2024-11-15,2024-11-15,I feel hopeless about my future,1
+45,23,unknown,0,2024-12-05,2024-12-05,I love playing sports,1
+46,0,unknown,0,2024-02-20,2024-02-20,I enjoyed a nice walk outside,1
+46,19,unknown,0,2024-11-15,2024-11-15,I am excited about tomorrow,1
+50,0,unknown,1,2024-03-12,2024-03-12,Nothing makes me happy anymore,1
+50,7,unknown,1,2024-06-22,2024-06-22,Life feels meaningless,1
+50,9,unknown,1,2024-07-25,2024-07-25,Nothing makes me happy anymore,1
+50,10,unknown,1,2024-08-05,2024-08-05,I feel hopeless about my future,1
+50,16,unknown,1,2024-10-23,2024-10-23,I have no motivation anymore,1
+50,17,unknown,0,2024-11-11,2024-11-11,I enjoyed a nice walk outside,1
+50,19,unknown,1,2024-12-05,2024-12-05,I feel tired of everything,1
+57,0,unknown,0,2024-01-19,2024-01-19,I enjoyed spending time with friends,1
+57,2,unknown,0,2024-02-26,2024-02-26,I had a good conversation today,1
+57,5,unknown,0,2024-04-06,2024-04-06,I enjoyed a nice walk outside,1
+57,8,unknown,0,2024-05-13,2024-05-14,Today was productive and fun </s> I had a great day today,2
+57,15,unknown,0,2024-08-23,2024-08-23,Today was a relaxing day,1
+60,0,unknown,1,2024-04-15,2024-04-15,Nothing makes me happy anymore,1
+60,4,unknown,0,2024-06-12,2024-06-12,I feel happy and motivated,1
+60,9,unknown,0,2024-08-27,2024-08-27,I enjoyed a nice walk outside,1
+60,12,unknown,0,2024-10-08,2024-10-08,I had a good conversation today,1
+60,17,unknown,0,2024-12-14,2024-12-17,I feel happy and motivated </s> I had a good conversation today,2
+64,0,unknown,0,2024-08-12,2024-08-12,I am excited about tomorrow,1
+66,0,unknown,1,2024-03-10,2024-03-10,I feel tired of everything,1
+66,1,unknown,1,2024-03-28,2024-03-28,I feel empty inside,1
+66,15,unknown,0,2024-10-15,2024-10-15,I enjoyed spending time with friends,1
+66,19,unknown,1,2024-12-03,2024-12-03,I feel like nobody understands me,1
+66,20,unknown,0,2024-12-15,2024-12-15,I love playing sports,1
+66,21,unknown,1,2024-12-31,2024-12-31,I feel very sad and lonely,1
+68,0,unknown,0,2024-02-05,2024-02-05,I had a great day today,1
+68,6,unknown,1,2024-05-06,2024-05-06,Nothing makes me happy anymore,1
+68,10,unknown,1,2024-06-26,2024-06-26,I have no motivation anymore,1
+68,12,unknown,0,2024-07-30,2024-07-30,I watched a great movie today,1
+68,15,unknown,0,2024-09-03,2024-09-03,Today was a relaxing day,1
+68,19,unknown,0,2024-11-03,2024-11-03,I had a great day today,1
+70,0,unknown,1,2024-04-17,2024-04-17,I feel tired of everything,1
+70,1,unknown,0,2024-05-03,2024-05-03,I had a good conversation today,1
+70,4,unknown,1,2024-06-14,2024-06-14,I feel empty inside,1
+70,5,unknown,0,2024-06-28,2024-06-28,I had a great day today,1
+70,6,unknown,0,2024-07-19,2024-07-19,I feel happy and motivated,1
+70,7,unknown,1,2024-07-31,2024-07-31,I feel tired of everything,1
+70,9,unknown,0,2024-08-26,2024-08-26,I had a great day today,1
+70,15,unknown,1,2024-11-18,2024-11-18,I feel tired of everything,1
+70,17,unknown,1,2024-12-11,2024-12-11,I have no motivation anymore,1
+71,0,unknown,0,2024-08-15,2024-08-15,I enjoyed a nice walk outside,1
+71,3,unknown,0,2024-10-07,2024-10-07,I enjoyed a nice walk outside,1
+71,5,unknown,0,2024-10-25,2024-10-25,I enjoyed a nice walk outside,1
+74,0,unknown,1,2024-01-18,2024-01-18,I feel like nobody understands me,1
+74,4,unknown,1,2024-03-23,2024-03-23,I feel like nobody understands me,1
+74,9,unknown,0,2024-06-01,2024-06-01,Today was a relaxing day,1
+74,11,unknown,0,2024-06-26,2024-07-03,I had a good conversation today </s> I had a great day today,2
+74,11,unknown,1,2024-07-01,2024-07-01,I feel like nobody understands me,1
+74,13,unknown,0,2024-07-30,2024-07-30,I watched a great movie today,1
+74,16,unknown,1,2024-09-09,2024-09-09,Nothing makes me happy anymore,1
+74,17,unknown,1,2024-09-21,2024-09-21,I feel very sad and lonely,1
+74,19,unknown,0,2024-10-18,2024-10-18,I enjoyed spending time with friends,1
+74,22,unknown,1,2024-11-26,2024-11-26,I feel very sad and lonely,1
+77,0,unknown,1,2024-01-21,2024-01-23,Life feels meaningless </s> I feel very sad and lonely,2
+77,2,unknown,1,2024-02-18,2024-02-18,I feel tired of everything,1
+77,4,unknown,0,2024-03-17,2024-03-17,I am excited about tomorrow,1
+77,11,unknown,1,2024-07-06,2024-07-06,Life feels meaningless,1
+77,19,unknown,0,2024-10-19,2024-10-19,I love playing sports,1
+77,21,unknown,1,2024-11-23,2024-11-23,I feel empty inside,1
+77,23,unknown,1,2024-12-19,2024-12-19,I have no motivation anymore,1
+79,0,unknown,0,2024-02-04,2024-02-04,I had a good conversation today,1
+79,0,unknown,1,2024-02-05,2024-02-05,I feel tired of everything,1
+100,0,unknown,1,2024-02-12,2024-02-12,I can't find joy in anything,1
+100,4,unknown,0,2024-04-14,2024-04-14,Today was productive and fun,1
+100,6,unknown,1,2024-05-10,2024-05-10,I feel very sad and lonely,1
+100,7,unknown,1,2024-05-25,2024-05-25,I can't find joy in anything,1
+100,19,unknown,0,2024-11-08,2024-11-08,I had a great day today,1
+101,0,unknown,1,2024-02-19,2024-02-19,Nothing makes me happy anymore,1
+101,5,unknown,0,2024-04-30,2024-04-30,Today was a relaxing day,1
+101,12,unknown,1,2024-08-16,2024-08-16,I feel like nobody understands me,1
+101,14,unknown,0,2024-09-05,2024-09-05,I am excited about tomorrow,1
+101,15,unknown,0,2024-09-19,2024-09-19,Today was a relaxing day,1
+101,17,unknown,1,2024-10-17,2024-10-17,I feel like nobody understands me,1
+101,21,unknown,1,2024-12-13,2024-12-13,Life feels meaningless,1
+110,0,unknown,1,2024-04-25,2024-04-25,Nothing makes me happy anymore,1
+110,11,unknown,0,2024-10-03,2024-10-03,I love playing sports,1
+110,12,unknown,1,2024-10-21,2024-10-21,I feel like nobody understands me,1
+112,0,unknown,1,2024-06-14,2024-06-14,I feel empty inside,1
+112,6,unknown,1,2024-09-13,2024-09-15,I feel very sad and lonely </s> I feel like nobody understands me,2
+112,10,unknown,0,2024-11-09,2024-11-09,I had a great day today,1
+112,12,unknown,1,2024-12-10,2024-12-10,I feel tired of everything,1
+116,0,unknown,0,2024-09-21,2024-09-21,I watched a great movie today,1
+116,0,unknown,1,2024-10-02,2024-10-02,Nothing makes me happy anymore,1
+116,3,unknown,1,2024-11-09,2024-11-11,I can't find joy in anything </s> I feel very sad and lonely,2
+121,0,unknown,0,2024-04-24,2024-04-24,I watched a great movie today,1
+121,10,unknown,0,2024-09-12,2024-09-12,I enjoyed a nice walk outside,1
+121,15,unknown,1,2024-11-30,2024-11-30,Nothing makes me happy anymore,1
+124,0,unknown,0,2024-06-06,2024-06-06,I had a good conversation today,1
+124,2,unknown,1,2024-07-07,2024-07-07,Nothing makes me happy anymore,1
+124,4,unknown,0,2024-08-07,2024-08-07,I love playing sports,1
+124,8,unknown,1,2024-09-27,2024-09-27,I have no motivation anymore,1
+124,11,unknown,1,2024-11-09,2024-11-09,I have no motivation anymore,1
+124,12,unknown,0,2024-11-24,2024-11-24,I am excited about tomorrow,1
+125,0,unknown,0,2024-03-02,2024-03-02,I had a good conversation today,1
+125,1,unknown,0,2024-03-28,2024-03-28,I watched a great movie today,1
+125,21,unknown,0,2024-12-23,2024-12-23,I had a great day today,1
+129,0,unknown,1,2024-03-21,2024-03-31,Nothing makes me happy anymore </s> I feel very sad and lonely,2
+129,1,unknown,1,2024-04-06,2024-04-06,I feel very sad and lonely,1
+129,14,unknown,1,2024-10-12,2024-10-12,I feel very sad and lonely,1
+129,19,unknown,1,2024-12-17,2024-12-17,I feel tired of everything,1
+136,0,unknown,1,2024-03-19,2024-03-19,I feel hopeless about my future,1
+136,6,unknown,1,2024-06-15,2024-06-15,Nothing makes me happy anymore,1
+136,13,unknown,1,2024-09-23,2024-09-23,Life feels meaningless,1
+163,0,unknown,1,2024-01-20,2024-01-20,I feel like nobody understands me,1
+163,1,unknown,1,2024-02-12,2024-02-12,I feel empty inside,1
+163,3,unknown,0,2024-03-11,2024-03-11,I had a great day today,1
+163,4,unknown,1,2024-03-18,2024-03-18,I have no motivation anymore,1
+163,7,unknown,1,2024-05-05,2024-05-06,I feel very lonely these days </s> I feel like nobody understands me,2
+163,21,unknown,0,2024-11-16,2024-11-16,I had a great day today,1
+163,21,unknown,1,2024-11-21,2024-11-21,I feel hopeless about my future,1
+164,0,unknown,0,2024-01-16,2024-01-16,I watched a great movie today,1
+164,1,unknown,1,2024-02-08,2024-02-08,I feel tired of everything,1
+164,5,unknown,1,2024-03-27,2024-03-27,I feel empty inside,1
+164,10,unknown,1,2024-06-14,2024-06-14,I feel tired of everything,1
+164,23,unknown,1,2024-12-08,2024-12-08,I feel empty inside,1
+169,0,unknown,1,2024-05-04,2024-05-04,I feel very lonely these days,1
+169,1,unknown,1,2024-05-18,2024-05-18,I can't find joy in anything,1
+169,4,unknown,1,2024-07-11,2024-07-11,Nothing makes me happy anymore,1
+169,9,unknown,1,2024-09-17,2024-09-17,I have no motivation anymore,1
+169,12,unknown,0,2024-10-23,2024-10-23,I had a good conversation today,1
+169,15,unknown,1,2024-12-04,2024-12-04,Life feels meaningless,1
+174,0,unknown,1,2024-02-12,2024-02-12,Life feels meaningless,1
+174,3,unknown,1,2024-04-05,2024-04-05,Nothing makes me happy anymore,1
+174,11,unknown,0,2024-07-25,2024-07-25,I love playing sports,1
+174,12,unknown,1,2024-08-02,2024-08-02,I feel empty inside,1
+174,13,unknown,1,2024-08-21,2024-08-21,I feel very sad and lonely,1
+176,0,unknown,0,2024-01-21,2024-01-21,I watched a great movie today,1
+176,12,unknown,1,2024-07-20,2024-07-20,I feel like nobody understands me,1
+176,17,unknown,1,2024-09-18,2024-09-18,I feel empty inside,1
+176,24,unknown,1,2024-12-28,2024-12-28,I feel tired of everything,1
+186,0,unknown,1,2024-01-04,2024-01-04,I can't find joy in anything,1
+186,3,unknown,0,2024-02-23,2024-02-23,I feel happy and motivated,1
+186,6,unknown,1,2024-04-08,2024-04-08,I feel very sad and lonely,1
+186,8,unknown,0,2024-04-25,2024-05-01,Today was a relaxing day </s> I feel happy and motivated,2
+186,13,unknown,1,2024-07-06,2024-07-06,I feel empty inside,1
+189,0,unknown,0,2024-03-28,2024-03-28,I watched a great movie today,1
+189,9,unknown,1,2024-08-10,2024-08-10,I can't find joy in anything,1
+195,0,unknown,1,2024-03-06,2024-03-06,I feel like nobody understands me,1
+195,11,unknown,0,2024-08-12,2024-08-12,I had a great day today,1
+195,12,unknown,0,2024-08-29,2024-08-29,I feel happy and motivated,1
+197,0,unknown,1,2024-05-30,2024-05-30,Life feels meaningless,1
+197,7,unknown,0,2024-09-13,2024-09-13,Today was productive and fun,1
+197,12,unknown,0,2024-11-17,2024-11-17,Today was productive and fun,1
+204,0,unknown,1,2024-02-03,2024-02-03,Life feels meaningless,1
+204,10,unknown,0,2024-06-29,2024-06-29,I feel happy and motivated,1
+204,17,unknown,0,2024-10-08,2024-10-08,I love playing sports,1
+204,23,unknown,0,2024-12-31,2024-12-31,Today was a relaxing day,1
+211,0,unknown,1,2024-06-06,2024-06-06,I feel empty inside,1
+211,4,unknown,0,2024-08-06,2024-08-07,I enjoyed spending time with friends </s> I am excited about tomorrow,2
+211,7,unknown,0,2024-09-25,2024-09-25,I feel happy and motivated,1
+211,8,unknown,0,2024-10-04,2024-10-04,Today was productive and fun,1
+211,12,unknown,0,2024-11-26,2024-11-26,Today was a relaxing day,1
+211,14,unknown,0,2024-12-24,2024-12-24,Today was productive and fun,1
+212,0,unknown,1,2024-01-08,2024-01-08,I feel empty inside,1
+212,10,unknown,0,2024-05-31,2024-05-31,I am excited about tomorrow,1
+212,11,unknown,1,2024-06-22,2024-06-22,I have no motivation anymore,1
+212,18,unknown,0,2024-09-27,2024-09-27,I enjoyed a nice walk outside,1
+213,0,unknown,0,2024-01-23,2024-01-23,I watched a great movie today,1
+213,0,unknown,1,2024-01-30,2024-01-30,Nothing makes me happy anymore,1
+213,8,unknown,1,2024-05-16,2024-05-16,I feel very sad and lonely,1
+213,12,unknown,1,2024-07-10,2024-07-10,I can't find joy in anything,1
+213,20,unknown,0,2024-11-09,2024-11-09,I watched a great movie today,1
+219,0,unknown,0,2024-01-27,2024-01-27,Today was a relaxing day,1
+219,1,unknown,0,2024-02-12,2024-02-12,I feel happy and motivated,1
+219,2,unknown,0,2024-03-02,2024-03-02,I enjoyed a nice walk outside,1
+219,3,unknown,1,2024-03-19,2024-03-19,I feel empty inside,1
+219,17,unknown,1,2024-09-24,2024-10-01,I feel empty inside </s> I have no motivation anymore,2
+219,19,unknown,0,2024-10-28,2024-10-28,I had a good conversation today,1
+221,0,unknown,1,2024-03-12,2024-03-12,I feel empty inside,1
+221,5,unknown,0,2024-05-27,2024-05-27,I had a good conversation today,1
+221,9,unknown,1,2024-07-25,2024-07-25,I have no motivation anymore,1
+221,15,unknown,0,2024-10-10,2024-10-10,I love playing sports,1
+221,17,unknown,0,2024-11-05,2024-11-05,I enjoyed spending time with friends,1
+221,19,unknown,1,2024-12-10,2024-12-10,I have no motivation anymore,1
+232,0,unknown,0,2024-09-10,2024-09-10,Today was a relaxing day,1
+234,0,unknown,0,2024-01-11,2024-01-11,I am excited about tomorrow,1
+234,3,unknown,1,2024-02-25,2024-02-25,I feel hopeless about my future,1
+234,5,unknown,1,2024-03-25,2024-03-25,I feel like nobody understands me,1
+234,7,unknown,1,2024-04-28,2024-04-28,I feel like nobody understands me,1
+234,13,unknown,1,2024-07-14,2024-07-14,I have no motivation anymore,1
+234,17,unknown,0,2024-09-18,2024-09-18,I had a great day today,1
+238,0,unknown,0,2024-01-28,2024-01-28,Today was a relaxing day,1
+238,2,unknown,0,2024-02-25,2024-02-25,I watched a great movie today,1
+238,3,unknown,1,2024-03-16,2024-03-16,Nothing makes me happy anymore,1
+238,4,unknown,1,2024-04-05,2024-04-05,I feel very lonely these days,1
+238,16,unknown,0,2024-09-10,2024-09-10,I enjoyed spending time with friends,1
+238,19,unknown,0,2024-10-22,2024-10-22,I had a good conversation today,1
+240,0,unknown,1,2024-04-30,2024-04-30,Nothing makes me happy anymore,1
+240,3,unknown,0,2024-06-16,2024-06-16,I watched a great movie today,1
+240,4,unknown,0,2024-07-01,2024-07-01,I love playing sports,1
+240,9,unknown,1,2024-09-12,2024-09-12,I feel like nobody understands me,1
+240,15,unknown,0,2024-11-28,2024-11-28,Today was productive and fun,1
+241,0,unknown,0,2024-03-27,2024-03-27,I feel happy and motivated,1
+241,1,unknown,0,2024-04-16,2024-04-16,I feel happy and motivated,1
+241,3,unknown,0,2024-05-18,2024-05-18,I had a great day today,1
+241,18,unknown,0,2024-12-14,2024-12-14,I enjoyed a nice walk outside,1
+248,0,unknown,0,2024-06-02,2024-06-02,I am excited about tomorrow,1
+248,3,unknown,0,2024-07-24,2024-07-24,I had a good conversation today </s> Today was a relaxing day,2
+248,5,unknown,1,2024-08-23,2024-08-23,I can't find joy in anything,1
+248,8,unknown,1,2024-09-24,2024-09-24,I feel like nobody understands me,1
+252,0,unknown,0,2024-03-11,2024-03-11,Today was a relaxing day,1
+255,0,unknown,0,2024-04-09,2024-04-09,I enjoyed a nice walk outside,1
+255,7,unknown,1,2024-07-21,2024-07-21,I feel empty inside,1
+255,11,unknown,0,2024-09-12,2024-09-12,I had a great day today,1
+257,0,unknown,0,2024-01-30,2024-01-30,I had a great day today,1
+257,9,unknown,1,2024-06-17,2024-06-17,I feel very lonely these days,1
+257,10,unknown,0,2024-06-21,2024-06-21,I had a good conversation today,1
+257,12,unknown,0,2024-07-21,2024-07-21,Today was productive and fun,1
+257,14,unknown,0,2024-08-14,2024-08-14,I am excited about tomorrow,1
+262,0,unknown,0,2024-06-04,2024-06-04,I love playing sports,1
+262,2,unknown,0,2024-07-08,2024-07-08,I enjoyed a nice walk outside,1
+262,7,unknown,1,2024-09-12,2024-09-12,Life feels meaningless,1
+262,9,unknown,0,2024-10-08,2024-10-08,I had a great day today,1
+262,12,unknown,1,2024-11-24,2024-11-24,I feel tired of everything,1
+267,0,unknown,1,2024-05-02,2024-05-02,Life feels meaningless,1
+267,8,unknown,1,2024-08-30,2024-08-30,I can't find joy in anything,1
+271,0,unknown,1,2024-01-14,2024-01-14,I feel very sad and lonely,1
+271,13,unknown,0,2024-07-26,2024-07-26,I enjoyed spending time with friends,1
+271,24,unknown,1,2024-12-17,2024-12-17,I feel very lonely these days,1
+276,0,unknown,0,2024-01-27,2024-01-31,I had a great day today </s> I am excited about tomorrow,2
+276,6,unknown,0,2024-04-25,2024-04-25,I enjoyed spending time with friends,1
+276,7,unknown,1,2024-05-10,2024-05-17,I have no motivation anymore </s> I feel very sad and lonely,2
+276,14,unknown,1,2024-08-21,2024-08-21,I feel hopeless about my future,1
+276,18,unknown,1,2024-10-07,2024-10-07,Nothing makes me happy anymore,1
+276,21,unknown,1,2024-11-17,2024-11-17,I can't find joy in anything,1
+276,24,unknown,1,2024-12-30,2024-12-30,I feel very lonely these days,1
+282,0,unknown,1,2024-02-14,2024-02-14,I feel empty inside,1
+282,5,unknown,1,2024-04-30,2024-04-30,I feel hopeless about my future,1
+282,8,unknown,0,2024-06-16,2024-06-16,I am excited about tomorrow,1
+282,10,unknown,0,2024-07-12,2024-07-12,I am excited about tomorrow,1
+282,17,unknown,0,2024-10-16,2024-10-16,Today was a relaxing day,1
+290,0,unknown,0,2024-01-17,2024-01-17,I watched a great movie today,1
+290,0,unknown,1,2024-01-20,2024-01-20,I feel like nobody understands me,1
+290,3,unknown,0,2024-02-29,2024-02-29,I had a good conversation today,1
+290,10,unknown,1,2024-06-08,2024-06-08,I feel very lonely these days,1
+290,16,unknown,0,2024-09-10,2024-09-10,I had a great day today,1
+290,22,unknown,1,2024-11-30,2024-11-30,I feel hopeless about my future,1
+298,0,unknown,0,2024-01-11,2024-01-11,I am excited about tomorrow,1
+298,2,unknown,1,2024-02-13,2024-02-13,I feel hopeless about my future,1
+298,11,unknown,0,2024-06-16,2024-06-16,I enjoyed spending time with friends,1
+298,12,unknown,0,2024-06-30,2024-07-03,I watched a great movie today </s> I enjoyed a nice walk outside,2
+298,13,unknown,0,2024-07-17,2024-07-17,I had a great day today,1
+298,16,unknown,0,2024-08-26,2024-08-26,I watched a great movie today,1
+298,19,unknown,0,2024-10-16,2024-10-16,I watched a great movie today,1
+298,22,unknown,0,2024-11-17,2024-11-17,Today was productive and fun,1
+298,24,unknown,0,2024-12-15,2024-12-19,I enjoyed spending time with friends </s> I am excited about tomorrow,2
+299,0,unknown,0,2024-01-18,2024-01-18,Today was a relaxing day,1
+299,7,unknown,1,2024-04-27,2024-04-27,I can't find joy in anything,1
+304,0,unknown,0,2024-03-22,2024-03-22,I feel happy and motivated,1
+304,3,unknown,1,2024-05-04,2024-05-04,I feel like nobody understands me,1
+304,6,unknown,1,2024-06-18,2024-06-18,I feel very lonely these days,1
+304,9,unknown,0,2024-08-01,2024-08-01,I had a great day today,1
+304,12,unknown,1,2024-09-06,2024-09-06,I have no motivation anymore,1
+304,15,unknown,1,2024-10-26,2024-10-26,I can't find joy in anything,1
+304,16,unknown,1,2024-11-14,2024-11-14,Life feels meaningless,1
+306,0,unknown,0,2024-01-19,2024-01-19,I had a great day today,1
+306,2,unknown,0,2024-02-24,2024-02-24,I am excited about tomorrow,1
+306,8,unknown,1,2024-05-12,2024-05-12,Life feels meaningless,1
+306,11,unknown,1,2024-06-23,2024-06-23,Nothing makes me happy anymore,1
+306,14,unknown,1,2024-08-02,2024-08-02,I feel hopeless about my future,1
+306,15,unknown,0,2024-08-21,2024-08-21,I had a good conversation today,1
+306,18,unknown,1,2024-10-10,2024-10-10,Nothing makes me happy anymore,1
+306,22,unknown,1,2024-12-01,2024-12-01,I feel very sad and lonely,1
+307,0,unknown,1,2024-05-21,2024-05-21,I feel tired of everything,1
+307,8,unknown,1,2024-09-11,2024-09-11,Life feels meaningless,1
+308,0,unknown,1,2024-01-02,2024-01-02,I feel like nobody understands me,1
+308,3,unknown,1,2024-02-21,2024-02-21,I can't find joy in anything,1
+308,5,unknown,1,2024-03-12,2024-03-12,I feel very lonely these days,1
+308,12,unknown,0,2024-06-24,2024-06-24,I love playing sports,1
+308,15,unknown,0,2024-08-09,2024-08-09,I love playing sports,1
+308,20,unknown,1,2024-10-19,2024-10-19,I feel tired of everything,1
+308,24,unknown,1,2024-12-12,2024-12-12,I feel like nobody understands me,1
+317,0,unknown,0,2024-05-31,2024-05-31,I feel happy and motivated,1
+317,0,unknown,1,2024-06-04,2024-06-04,I feel tired of everything,1
+317,2,unknown,1,2024-06-29,2024-07-08,I have no motivation anymore </s> I feel very lonely these days,2
+317,7,unknown,0,2024-09-09,2024-09-09,I am excited about tomorrow,1
+317,9,unknown,1,2024-10-04,2024-10-04,I feel very lonely these days,1
+317,10,unknown,1,2024-10-26,2024-10-26,I feel tired of everything,1
+317,14,unknown,0,2024-12-18,2024-12-18,I feel happy and motivated,1
+323,0,unknown,1,2024-01-11,2024-01-11,I feel hopeless about my future,1
+323,1,unknown,1,2024-02-07,2024-02-07,I feel like nobody understands me,1
+323,6,unknown,0,2024-04-08,2024-04-08,Today was a relaxing day,1
+323,8,unknown,1,2024-05-09,2024-05-09,I feel tired of everything,1
+323,11,unknown,1,2024-06-14,2024-06-14,I have no motivation anymore,1
+323,12,unknown,0,2024-06-27,2024-06-27,Today was productive and fun,1
+323,19,unknown,0,2024-10-16,2024-10-16,I enjoyed a nice walk outside,1
+323,23,unknown,1,2024-11-29,2024-11-29,Life feels meaningless,1
+325,0,unknown,1,2024-01-13,2024-01-13,I feel very lonely these days,1
+325,4,unknown,0,2024-03-12,2024-03-12,I had a great day today,1
+325,12,unknown,1,2024-07-06,2024-07-11,Nothing makes me happy anymore </s> I feel very lonely these days,2
+325,13,unknown,1,2024-07-22,2024-07-22,I feel very sad and lonely,1
+325,19,unknown,0,2024-10-10,2024-10-10,Today was a relaxing day,1
+325,21,unknown,0,2024-11-06,2024-11-06,I had a great day today,1
+325,22,unknown,1,2024-11-24,2024-11-24,I feel very lonely these days,1
+332,0,unknown,1,2024-08-17,2024-08-17,I feel tired of everything </s> I feel hopeless about my future,2
+332,2,unknown,0,2024-09-25,2024-09-25,I had a great day today,1
+332,2,unknown,1,2024-09-17,2024-09-17,I feel empty inside,1
+332,6,unknown,0,2024-11-13,2024-11-13,Today was productive and fun,1
+343,0,unknown,0,2024-02-25,2024-02-25,I enjoyed a nice walk outside,1
+343,0,unknown,1,2024-02-18,2024-02-18,I feel hopeless about my future,1
+343,2,unknown,1,2024-03-23,2024-03-23,Nothing makes me happy anymore,1
+343,4,unknown,1,2024-04-22,2024-04-22,I feel hopeless about my future,1
+343,11,unknown,0,2024-07-24,2024-07-24,I love playing sports,1
+343,12,unknown,0,2024-08-05,2024-08-05,I had a great day today,1
+343,16,unknown,0,2024-10-09,2024-10-09,I had a great day today,1
+343,19,unknown,0,2024-11-12,2024-11-12,Today was a relaxing day,1
+343,22,unknown,0,2024-12-23,2024-12-23,I watched a great movie today,1
+345,0,unknown,1,2024-02-10,2024-02-10,I feel like nobody understands me,1
+345,2,unknown,1,2024-03-16,2024-03-16,I feel tired of everything,1
+345,3,unknown,0,2024-03-26,2024-04-01,I had a great day today </s> I enjoyed spending time with friends,2
+345,17,unknown,1,2024-10-08,2024-10-08,I feel like nobody understands me,1
+351,0,unknown,1,2024-04-01,2024-04-01,I have no motivation anymore,1
+351,1,unknown,0,2024-04-23,2024-04-23,I love playing sports,1
+351,7,unknown,0,2024-07-08,2024-07-08,I feel happy and motivated,1
+351,19,unknown,0,2024-12-25,2024-12-25,I enjoyed a nice walk outside,1
+352,0,unknown,0,2024-01-11,2024-01-11,I feel happy and motivated,1
+352,1,unknown,1,2024-02-07,2024-02-07,I feel very lonely these days,1
+352,16,unknown,0,2024-08-28,2024-08-28,I had a great day today,1
+352,21,unknown,0,2024-11-08,2024-11-12,I feel happy and motivated </s> I had a good conversation today </s> I enjoyed a nice walk outside,3
+353,0,unknown,1,2024-01-20,2024-01-20,I feel empty inside,1
+353,5,unknown,0,2024-04-12,2024-04-12,I enjoyed spending time with friends,1
+353,13,unknown,1,2024-07-22,2024-07-22,I have no motivation anymore,1
+353,15,unknown,1,2024-08-29,2024-08-29,I feel hopeless about my future,1
+353,16,unknown,1,2024-09-09,2024-09-09,I can't find joy in anything,1
+353,18,unknown,0,2024-10-08,2024-10-08,I enjoyed spending time with friends,1
+353,20,unknown,0,2024-10-29,2024-10-29,I had a great day today,1
+353,21,unknown,1,2024-11-12,2024-11-15,I feel empty inside </s> Nothing makes me happy anymore,2
+354,0,unknown,0,2024-05-19,2024-05-19,I had a great day today,1
+354,9,unknown,1,2024-09-29,2024-09-29,I feel like nobody understands me,1
+355,0,unknown,0,2024-03-24,2024-03-24,I had a great day today,1
+355,4,unknown,0,2024-05-30,2024-05-30,I had a great day today,1
+355,4,unknown,1,2024-05-22,2024-05-22,I have no motivation anymore,1
+355,9,unknown,0,2024-08-10,2024-08-10,I feel happy and motivated,1
+355,11,unknown,1,2024-09-03,2024-09-03,I have no motivation anymore,1
+362,0,unknown,1,2024-03-05,2024-03-05,I feel very lonely these days,1
+362,13,unknown,1,2024-09-08,2024-09-08,I feel tired of everything,1
+368,0,unknown,1,2024-05-12,2024-05-12,I feel hopeless about my future,1
+368,3,unknown,1,2024-07-03,2024-07-03,Nothing makes me happy anymore,1
+368,8,unknown,1,2024-09-13,2024-09-13,I have no motivation anymore,1
+368,9,unknown,0,2024-09-19,2024-09-19,I enjoyed spending time with friends,1
+368,15,unknown,0,2024-12-16,2024-12-16,I had a great day today,1
+369,0,unknown,0,2024-01-01,2024-01-01,Today was productive and fun,1
+369,1,unknown,1,2024-01-18,2024-01-18,I feel very sad and lonely,1
+369,10,unknown,0,2024-05-21,2024-05-21,I watched a great movie today,1
+370,0,unknown,0,2024-02-29,2024-02-29,I feel happy and motivated,1
+370,6,unknown,1,2024-05-25,2024-05-25,I feel empty inside,1
+370,9,unknown,1,2024-07-15,2024-07-15,I feel hopeless about my future,1
+370,14,unknown,1,2024-09-25,2024-09-25,I can't find joy in anything,1
+370,21,unknown,1,2024-12-21,2024-12-21,I feel very lonely these days,1
+376,0,unknown,0,2024-01-14,2024-01-14,I had a good conversation today,1
+376,3,unknown,1,2024-03-07,2024-03-07,I feel empty inside,1
+376,6,unknown,0,2024-04-10,2024-04-10,I watched a great movie today,1
+376,8,unknown,0,2024-05-11,2024-05-11,I had a great day today,1
+376,15,unknown,1,2024-08-15,2024-08-15,I can't find joy in anything,1
+376,16,unknown,1,2024-09-01,2024-09-01,I feel very lonely these days,1
+376,18,unknown,0,2024-09-23,2024-09-23,Today was productive and fun,1
+376,19,unknown,1,2024-10-17,2024-10-17,Nothing makes me happy anymore,1
+376,20,unknown,1,2024-10-21,2024-10-21,I feel hopeless about my future,1
+384,0,unknown,0,2024-01-01,2024-01-01,I had a great day today,1
+384,2,unknown,1,2024-02-02,2024-02-02,I can't find joy in anything,1
+384,3,unknown,1,2024-02-16,2024-02-16,I feel very lonely these days,1
+384,8,unknown,0,2024-04-24,2024-04-24,I love playing sports,1
+384,18,unknown,0,2024-09-19,2024-09-19,Today was productive and fun,1
+384,22,unknown,1,2024-11-05,2024-11-09,I feel very sad and lonely </s> I feel like nobody understands me,2
+384,23,unknown,1,2024-11-20,2024-11-20,Life feels meaningless,1
+385,0,unknown,1,2024-01-02,2024-01-02,Life feels meaningless,1
+385,2,unknown,1,2024-02-07,2024-02-07,Nothing makes me happy anymore,1
+385,10,unknown,0,2024-05-24,2024-05-24,Today was a relaxing day,1
+385,13,unknown,0,2024-07-03,2024-07-03,I love playing sports,1
+385,18,unknown,1,2024-09-19,2024-09-19,I feel very sad and lonely,1
+385,21,unknown,1,2024-11-01,2024-11-01,Nothing makes me happy anymore,1
+385,24,unknown,0,2024-12-12,2024-12-12,I had a great day today,1
+385,25,unknown,0,2024-12-23,2024-12-23,Today was productive and fun,1
+395,0,unknown,0,2024-01-08,2024-01-08,I love playing sports,1
+395,1,unknown,0,2024-01-28,2024-01-28,I enjoyed spending time with friends,1
+395,2,unknown,0,2024-02-11,2024-02-11,I had a great day today,1
+395,11,unknown,1,2024-06-11,2024-06-11,I feel very lonely these days,1
+395,14,unknown,0,2024-08-01,2024-08-01,I watched a great movie today,1
+395,14,unknown,1,2024-07-28,2024-07-28,I have no motivation anymore,1
+395,15,unknown,0,2024-08-10,2024-08-10,I am excited about tomorrow,1
+395,19,unknown,0,2024-10-11,2024-10-11,I am excited about tomorrow,1
+395,20,unknown,1,2024-10-27,2024-10-27,I feel very sad and lonely,1
+395,22,unknown,0,2024-11-17,2024-11-17,I enjoyed spending time with friends,1
+396,0,unknown,0,2024-05-12,2024-05-12,I enjoyed spending time with friends,1
+396,3,unknown,0,2024-07-03,2024-07-03,I feel happy and motivated,1
+396,6,unknown,0,2024-08-15,2024-08-15,I am excited about tomorrow,1
+396,9,unknown,0,2024-09-27,2024-09-27,I enjoyed a nice walk outside,1
+396,10,unknown,0,2024-10-11,2024-10-11,I love playing sports,1
+413,0,unknown,0,2024-01-30,2024-01-30,I watched a great movie today,1
+413,0,unknown,1,2024-02-04,2024-02-04,I feel hopeless about my future,1
+413,6,unknown,0,2024-04-28,2024-04-28,Today was a relaxing day,1
+413,8,unknown,1,2024-05-27,2024-05-27,I can't find joy in anything,1
+413,15,unknown,0,2024-09-06,2024-09-06,I had a good conversation today,1
+413,16,unknown,1,2024-09-20,2024-09-20,I have no motivation anymore,1
+413,23,unknown,1,2024-12-21,2024-12-21,I feel hopeless about my future,1
+416,0,unknown,1,2024-02-22,2024-02-22,Nothing makes me happy anymore,1
+416,3,unknown,0,2024-04-06,2024-04-06,I watched a great movie today,1
+416,7,unknown,0,2024-06-08,2024-06-08,Today was productive and fun,1
+418,0,unknown,1,2024-03-06,2024-03-06,I have no motivation anymore,1
+418,2,unknown,1,2024-04-07,2024-04-07,I can't find joy in anything,1
+418,8,unknown,1,2024-07-05,2024-07-05,I have no motivation anymore,1
+418,11,unknown,0,2024-08-14,2024-08-14,I am excited about tomorrow,1
+418,13,unknown,1,2024-09-12,2024-09-13,I feel very sad and lonely </s> I feel very lonely these days,2
+418,19,unknown,0,2024-11-29,2024-11-29,I love playing sports,1
+422,0,unknown,0,2024-01-07,2024-01-07,I watched a great movie today,1
+422,14,unknown,0,2024-07-24,2024-07-24,I feel happy and motivated,1
+422,20,unknown,1,2024-10-26,2024-10-26,Nothing makes me happy anymore,1
+424,0,unknown,1,2024-04-28,2024-05-01,I feel hopeless about my future </s> I feel very sad and lonely,2
+424,7,unknown,0,2024-08-16,2024-08-16,I am excited about tomorrow,1
+429,0,unknown,1,2024-01-30,2024-01-30,I can't find joy in anything,1
+429,21,unknown,1,2024-11-23,2024-11-23,I have no motivation anymore,1
+429,22,unknown,0,2024-12-05,2024-12-05,I had a great day today,1
+431,0,unknown,0,2024-01-27,2024-01-27,I enjoyed spending time with friends,1
+431,5,unknown,1,2024-04-07,2024-04-07,I feel hopeless about my future,1
+431,11,unknown,1,2024-06-30,2024-06-30,I feel tired of everything,1
+431,12,unknown,1,2024-07-26,2024-07-26,I can't find joy in anything,1
+435,0,unknown,1,2024-04-30,2024-04-30,I feel like nobody understands me,1
+435,4,unknown,0,2024-06-30,2024-06-30,I had a great day today,1
+435,6,unknown,1,2024-08-04,2024-08-04,I feel very sad and lonely,1
+435,13,unknown,0,2024-11-04,2024-11-04,I love playing sports,1
+440,0,unknown,1,2024-02-04,2024-02-04,I feel hopeless about my future,1
+440,8,unknown,1,2024-06-07,2024-06-07,I feel empty inside,1
+440,17,unknown,1,2024-10-04,2024-10-04,I feel like nobody understands me,1
+440,20,unknown,1,2024-11-12,2024-11-12,I feel very sad and lonely,1
+440,21,unknown,1,2024-11-29,2024-11-29,I feel hopeless about my future,1
+440,22,unknown,0,2024-12-19,2024-12-19,I feel happy and motivated,1
+452,0,unknown,0,2024-02-28,2024-02-28,I enjoyed a nice walk outside,1
+452,3,unknown,1,2024-04-19,2024-04-19,Life feels meaningless,1
+452,4,unknown,1,2024-05-02,2024-05-02,I feel very lonely these days,1
+452,18,unknown,0,2024-11-12,2024-11-16,I had a good conversation today </s> I had a great day today,2
+452,19,unknown,0,2024-11-25,2024-11-25,I had a great day today,1
+452,20,unknown,0,2024-12-12,2024-12-12,I feel happy and motivated,1
+455,0,unknown,0,2024-04-20,2024-04-20,I feel happy and motivated,1
+455,0,unknown,1,2024-04-13,2024-04-13,I feel hopeless about my future,1
+455,6,unknown,0,2024-07-13,2024-07-13,I had a good conversation today,1
+455,10,unknown,1,2024-09-12,2024-09-12,I can't find joy in anything,1
+455,11,unknown,1,2024-09-16,2024-09-16,Life feels meaningless,1
+455,14,unknown,1,2024-10-30,2024-10-30,I feel very sad and lonely,1
+455,16,unknown,1,2024-12-02,2024-12-02,Life feels meaningless,1
+464,0,unknown,0,2024-06-02,2024-06-02,I had a great day today,1
+464,7,unknown,1,2024-09-14,2024-09-14,I feel tired of everything,1
+464,8,unknown,0,2024-09-23,2024-09-23,I feel happy and motivated,1
+466,0,unknown,1,2024-05-27,2024-05-27,I feel hopeless about my future,1
+466,4,unknown,0,2024-07-24,2024-07-24,I watched a great movie today,1
+466,8,unknown,0,2024-09-24,2024-09-24,I enjoyed spending time with friends,1
+473,0,unknown,0,2024-05-11,2024-05-11,Today was productive and fun,1
+473,0,unknown,1,2024-05-09,2024-05-09,I feel hopeless about my future,1
+473,15,unknown,0,2024-12-08,2024-12-08,I had a good conversation today,1
+473,16,unknown,1,2024-12-22,2024-12-22,I feel tired of everything,1
+480,0,unknown,0,2024-01-25,2024-01-25,Today was productive and fun,1
+480,9,unknown,1,2024-05-30,2024-05-30,I feel hopeless about my future,1
+480,12,unknown,0,2024-07-23,2024-07-23,I feel happy and motivated,1
+480,17,unknown,0,2024-09-21,2024-09-21,I am excited about tomorrow,1
+482,0,unknown,1,2024-02-12,2024-02-12,I feel hopeless about my future,1
+482,11,unknown,1,2024-07-18,2024-07-18,Nothing makes me happy anymore,1
+482,16,unknown,1,2024-10-04,2024-10-04,I feel very lonely these days,1
+482,19,unknown,1,2024-11-17,2024-11-17,I feel very lonely these days,1
+482,20,unknown,1,2024-11-18,2024-11-18,I feel very lonely these days,1
+485,0,unknown,0,2024-03-04,2024-03-04,I enjoyed a nice walk outside,1
+485,1,unknown,0,2024-03-29,2024-03-29,I enjoyed a nice walk outside,1
+485,7,unknown,1,2024-06-19,2024-06-19,Nothing makes me happy anymore,1
+485,21,unknown,1,2024-12-25,2024-12-25,I feel very lonely these days,1
+487,0,unknown,0,2024-07-22,2024-07-22,I had a great day today,1
+487,5,unknown,1,2024-10-04,2024-10-04,I have no motivation anymore,1
+487,6,unknown,1,2024-10-21,2024-10-21,I feel very sad and lonely,1
+487,8,unknown,0,2024-11-13,2024-11-13,I love playing sports,1
+488,0,unknown,1,2024-04-13,2024-04-13,I feel like nobody understands me,1
+488,5,unknown,1,2024-06-26,2024-06-26,Nothing makes me happy anymore,1
+488,17,unknown,1,2024-12-17,2024-12-17,Life feels meaningless,1
+497,0,unknown,1,2024-03-17,2024-03-17,I can't find joy in anything,1
+497,9,unknown,0,2024-07-25,2024-07-27,I watched a great movie today </s> Today was productive and fun,2
+497,16,unknown,0,2024-10-28,2024-10-28,I enjoyed spending time with friends,1
+497,18,unknown,0,2024-11-27,2024-11-27,I had a great day today,1
+509,0,unknown,0,2024-03-05,2024-03-05,Today was a relaxing day,1
+509,2,unknown,1,2024-04-08,2024-04-08,I have no motivation anymore,1
+509,6,unknown,1,2024-05-29,2024-05-29,I feel hopeless about my future,1
+509,8,unknown,1,2024-07-06,2024-07-06,I feel very lonely these days,1
+509,11,unknown,1,2024-08-09,2024-08-15,Nothing makes me happy anymore </s> I feel empty inside,2
+509,12,unknown,1,2024-09-01,2024-09-01,I feel tired of everything,1
+509,14,unknown,1,2024-09-29,2024-09-29,Life feels meaningless,1
+516,0,unknown,1,2024-04-25,2024-04-25,I feel like nobody understands me,1
+516,2,unknown,1,2024-05-24,2024-05-24,I feel hopeless about my future,1
+516,17,unknown,0,2024-12-23,2024-12-23,I enjoyed spending time with friends,1
+521,0,unknown,1,2024-01-31,2024-01-31,I feel empty inside,1
+521,6,unknown,1,2024-04-25,2024-04-25,Nothing makes me happy anymore,1
+521,7,unknown,1,2024-05-09,2024-05-09,I feel very lonely these days,1
+528,0,unknown,1,2024-01-31,2024-01-31,I feel empty inside,1
+528,13,unknown,1,2024-08-08,2024-08-08,I can't find joy in anything,1
+528,19,unknown,0,2024-10-27,2024-10-27,Today was productive and fun,1
+528,23,unknown,0,2024-12-26,2024-12-26,I enjoyed spending time with friends,1
+529,0,unknown,0,2024-01-11,2024-01-11,I am excited about tomorrow,1
+529,9,unknown,1,2024-05-24,2024-05-24,I feel very sad and lonely,1
+529,10,unknown,1,2024-06-08,2024-06-08,I can't find joy in anything,1
+529,12,unknown,1,2024-07-02,2024-07-02,I feel empty inside,1
+529,14,unknown,0,2024-07-31,2024-07-31,I watched a great movie today,1
+532,0,unknown,1,2024-06-10,2024-06-10,I feel empty inside </s> I feel tired of everything,2
+532,7,unknown,0,2024-09-18,2024-09-18,I enjoyed spending time with friends,1
+532,8,unknown,1,2024-10-01,2024-10-01,I can't find joy in anything,1
+532,12,unknown,1,2024-12-01,2024-12-02,I have no motivation anymore </s> I have no motivation anymore,2
+534,0,unknown,0,2024-01-03,2024-01-03,I feel happy and motivated,1
+534,3,unknown,0,2024-02-17,2024-02-17,I enjoyed a nice walk outside,1
+534,4,unknown,0,2024-03-09,2024-03-09,I watched a great movie today,1
+534,13,unknown,0,2024-07-06,2024-07-06,I love playing sports,1
+534,24,unknown,0,2024-12-08,2024-12-08,I had a good conversation today,1
+534,24,unknown,1,2024-12-15,2024-12-15,I can't find joy in anything,1
+536,0,unknown,0,2024-02-10,2024-02-10,I had a good conversation today,1
+536,1,unknown,0,2024-03-01,2024-03-01,I love playing sports,1
+536,1,unknown,1,2024-03-01,2024-03-01,Life feels meaningless,1
+536,6,unknown,0,2024-05-05,2024-05-05,I feel happy and motivated,1
+536,7,unknown,0,2024-05-18,2024-05-18,I watched a great movie today,1
+536,16,unknown,1,2024-09-23,2024-09-23,I feel empty inside,1
+536,17,unknown,0,2024-10-15,2024-10-15,Today was a relaxing day,1
+537,0,unknown,1,2024-07-19,2024-07-19,I feel empty inside,1
+537,7,unknown,1,2024-10-29,2024-10-29,I feel empty inside,1
+537,10,unknown,0,2024-12-13,2024-12-13,I enjoyed spending time with friends,1
+540,0,unknown,1,2024-01-06,2024-01-06,I can't find joy in anything,1
+540,18,unknown,0,2024-09-14,2024-09-14,I watched a great movie today,1
+540,22,unknown,1,2024-11-12,2024-11-12,I feel very sad and lonely,1
+540,23,unknown,1,2024-11-24,2024-11-24,I have no motivation anymore,1
+546,0,unknown,1,2024-02-18,2024-02-18,I feel very sad and lonely,1
+546,16,unknown,0,2024-09-29,2024-10-01,Today was a relaxing day </s> I feel happy and motivated,2
+546,18,unknown,0,2024-11-06,2024-11-06,I enjoyed a nice walk outside,1
+546,18,unknown,1,2024-11-03,2024-11-03,I can't find joy in anything,1
+550,0,unknown,0,2024-02-06,2024-02-06,I love playing sports,1
+550,1,unknown,1,2024-02-25,2024-02-25,I feel empty inside,1
+550,18,unknown,1,2024-10-23,2024-10-23,I feel empty inside,1
+550,20,unknown,0,2024-11-14,2024-11-14,Today was a relaxing day,1
+550,23,unknown,0,2024-12-25,2024-12-25,I had a great day today,1
+554,0,unknown,0,2024-05-09,2024-05-09,Today was a relaxing day,1
+554,0,unknown,1,2024-05-05,2024-05-05,I can't find joy in anything,1
+554,1,unknown,1,2024-05-21,2024-05-21,I can't find joy in anything,1
+554,6,unknown,1,2024-08-04,2024-08-04,I feel very lonely these days,1
+556,0,unknown,1,2024-01-22,2024-01-22,I feel like nobody understands me,1
+556,5,unknown,1,2024-04-08,2024-04-08,I feel tired of everything,1
+556,6,unknown,0,2024-04-26,2024-04-26,I feel happy and motivated,1
+556,9,unknown,1,2024-06-05,2024-06-05,I feel tired of everything,1
+556,15,unknown,0,2024-08-31,2024-08-31,I had a great day today,1
+556,20,unknown,0,2024-11-06,2024-11-06,I love playing sports,1
+556,23,unknown,0,2024-12-15,2024-12-15,I am excited about tomorrow,1
+563,0,unknown,1,2024-01-27,2024-01-27,I feel very sad and lonely,1
+563,12,unknown,0,2024-07-25,2024-07-25,I enjoyed spending time with friends,1
+563,17,unknown,1,2024-09-21,2024-09-21,I feel hopeless about my future,1
+563,21,unknown,1,2024-11-21,2024-11-21,I feel very lonely these days,1
+569,0,unknown,1,2024-01-04,2024-01-04,Life feels meaningless,1
+569,4,unknown,1,2024-03-05,2024-03-05,I can't find joy in anything,1
+569,20,unknown,0,2024-10-22,2024-10-22,I had a good conversation today,1
+569,21,unknown,0,2024-10-25,2024-10-25,Today was a relaxing day,1
+569,25,unknown,0,2024-12-20,2024-12-20,I enjoyed spending time with friends,1
+572,0,unknown,0,2024-01-22,2024-01-22,I feel happy and motivated,1
+572,0,unknown,1,2024-01-20,2024-01-20,I feel very lonely these days,1
+572,1,unknown,0,2024-02-04,2024-02-04,I love playing sports,1
+572,3,unknown,0,2024-03-02,2024-03-02,I enjoyed spending time with friends,1
+572,12,unknown,0,2024-07-15,2024-07-15,I had a good conversation today,1
+574,0,unknown,0,2024-02-05,2024-02-05,I feel happy and motivated,1
+574,4,unknown,0,2024-04-01,2024-04-01,Today was productive and fun,1
+574,13,unknown,1,2024-08-08,2024-08-08,I feel empty inside,1
+574,14,unknown,1,2024-08-20,2024-08-20,I feel very sad and lonely,1
+578,0,unknown,1,2024-01-25,2024-01-25,I feel empty inside,1
+578,2,unknown,1,2024-02-22,2024-02-29,Life feels meaningless </s> I feel very sad and lonely,2
+578,3,unknown,0,2024-03-19,2024-03-19,I watched a great movie today,1
+578,7,unknown,0,2024-05-12,2024-05-12,I am excited about tomorrow,1
+578,7,unknown,1,2024-05-13,2024-05-13,I feel hopeless about my future,1
+578,8,unknown,0,2024-05-29,2024-05-29,Today was productive and fun,1
+578,10,unknown,1,2024-06-20,2024-06-20,I feel very sad and lonely,1
+578,12,unknown,1,2024-07-18,2024-07-18,I feel very sad and lonely,1
+578,15,unknown,0,2024-08-25,2024-08-25,Today was productive and fun,1
+578,19,unknown,0,2024-10-29,2024-10-29,I am excited about tomorrow,1
+578,20,unknown,1,2024-11-09,2024-11-09,I can't find joy in anything,1
+578,23,unknown,0,2024-12-24,2024-12-24,I love playing sports,1
+581,0,unknown,0,2024-04-01,2024-04-01,Today was a relaxing day,1
+581,1,unknown,1,2024-04-22,2024-04-22,Life feels meaningless,1
+581,12,unknown,1,2024-09-16,2024-09-16,I feel like nobody understands me,1
+581,17,unknown,1,2024-12-07,2024-12-07,I feel very lonely these days,1
+583,0,unknown,0,2024-10-18,2024-10-28,I feel happy and motivated </s> I enjoyed a nice walk outside </s> I love playing sports,3
+583,3,unknown,0,2024-11-30,2024-11-30,I enjoyed a nice walk outside,1
+583,4,unknown,0,2024-12-22,2024-12-22,Today was a relaxing day,1
+584,0,unknown,1,2024-03-14,2024-03-14,I feel very lonely these days,1
+584,5,unknown,0,2024-06-03,2024-06-03,I had a good conversation today,1
+584,7,unknown,1,2024-06-20,2024-06-20,I feel very sad and lonely,1
+584,8,unknown,1,2024-07-05,2024-07-05,Life feels meaningless,1
+584,11,unknown,0,2024-08-20,2024-08-20,I feel happy and motivated,1
+584,18,unknown,1,2024-12-04,2024-12-04,I feel very sad and lonely,1
+585,0,unknown,0,2024-03-04,2024-03-04,Today was a relaxing day,1
+585,0,unknown,1,2024-02-23,2024-02-23,Nothing makes me happy anymore,1
+585,4,unknown,0,2024-04-23,2024-04-23,I feel happy and motivated,1
+585,7,unknown,1,2024-06-12,2024-06-12,I feel empty inside,1
+585,8,unknown,1,2024-06-18,2024-06-18,I feel very lonely these days,1
+585,11,unknown,0,2024-08-06,2024-08-06,Today was productive and fun,1
+585,20,unknown,1,2024-12-06,2024-12-06,Nothing makes me happy anymore,1
+590,0,unknown,0,2024-01-27,2024-01-27,Today was a relaxing day,1
+590,2,unknown,1,2024-03-01,2024-03-01,I feel hopeless about my future,1
+590,3,unknown,0,2024-03-13,2024-03-13,I enjoyed spending time with friends,1
+590,16,unknown,1,2024-09-14,2024-09-14,I feel very sad and lonely,1
+590,21,unknown,1,2024-11-22,2024-11-22,I have no motivation anymore,1
+598,0,unknown,0,2024-10-20,2024-10-20,I feel happy and motivated,1
+598,2,unknown,0,2024-11-17,2024-11-17,I am excited about tomorrow,1
+604,0,unknown,1,2024-04-16,2024-04-16,Nothing makes me happy anymore,1
+604,1,unknown,1,2024-05-12,2024-05-12,I feel like nobody understands me,1
+604,3,unknown,0,2024-05-28,2024-06-09,I had a great day today </s> I enjoyed a nice walk outside,2
+604,4,unknown,0,2024-06-17,2024-06-17,I am excited about tomorrow,1
+604,5,unknown,0,2024-06-28,2024-06-28,I watched a great movie today,1
+604,13,unknown,0,2024-10-17,2024-10-17,I love playing sports,1
+604,15,unknown,1,2024-11-20,2024-11-20,I feel tired of everything,1
+604,16,unknown,0,2024-12-05,2024-12-05,Today was productive and fun,1
+604,18,unknown,0,2024-12-25,2024-12-25,I watched a great movie today,1
+609,0,unknown,1,2024-01-11,2024-01-11,I have no motivation anymore,1
+609,10,unknown,0,2024-06-07,2024-06-07,I feel happy and motivated,1
+609,20,unknown,0,2024-10-30,2024-10-30,I had a great day today,1
+609,24,unknown,1,2024-12-15,2024-12-15,Nothing makes me happy anymore,1
+612,0,unknown,1,2024-05-06,2024-05-06,I feel like nobody understands me,1
+612,2,unknown,1,2024-06-05,2024-06-05,Nothing makes me happy anymore,1
+612,3,unknown,0,2024-06-22,2024-06-30,I love playing sports </s> I enjoyed a nice walk outside,2
+612,7,unknown,1,2024-08-17,2024-08-17,I feel tired of everything,1
+616,0,unknown,1,2024-01-19,2024-01-19,Life feels meaningless,1
+616,1,unknown,0,2024-02-13,2024-02-14,I enjoyed spending time with friends </s> I love playing sports,2
+616,1,unknown,1,2024-02-10,2024-02-10,Nothing makes me happy anymore,1
+616,5,unknown,0,2024-04-09,2024-04-09,I feel happy and motivated,1
+616,16,unknown,0,2024-09-08,2024-09-08,I had a great day today,1
+619,0,unknown,1,2024-05-08,2024-05-08,I feel like nobody understands me,1
+619,6,unknown,0,2024-08-06,2024-08-06,I am excited about tomorrow,1
+621,0,unknown,1,2024-02-09,2024-02-09,I feel hopeless about my future,1
+621,3,unknown,0,2024-04-04,2024-04-04,I had a great day today,1
+621,4,unknown,1,2024-04-06,2024-04-06,I feel hopeless about my future,1
+621,8,unknown,1,2024-06-11,2024-06-11,Life feels meaningless,1
+621,19,unknown,1,2024-11-14,2024-11-14,I can't find joy in anything,1
+632,0,unknown,1,2024-04-20,2024-04-20,I feel like nobody understands me,1
+632,3,unknown,1,2024-06-04,2024-06-04,I have no motivation anymore,1
+632,4,unknown,0,2024-06-15,2024-06-20,I enjoyed a nice walk outside </s> I am excited about tomorrow,2
+632,7,unknown,0,2024-08-04,2024-08-09,I had a good conversation today </s> I love playing sports,2
+632,11,unknown,1,2024-09-23,2024-09-23,I feel like nobody understands me,1
+632,12,unknown,1,2024-10-16,2024-10-16,I feel very sad and lonely,1
+632,15,unknown,1,2024-11-16,2024-11-16,Life feels meaningless,1
+632,17,unknown,1,2024-12-14,2024-12-14,I feel tired of everything,1
+652,0,unknown,0,2024-02-26,2024-02-26,I feel happy and motivated,1
+652,5,unknown,1,2024-05-16,2024-05-16,I feel very sad and lonely,1
+652,16,unknown,1,2024-10-19,2024-10-19,Nothing makes me happy anymore,1
+653,0,unknown,1,2024-03-18,2024-03-18,Life feels meaningless,1
+653,7,unknown,0,2024-07-05,2024-07-05,Today was productive and fun,1
+653,12,unknown,0,2024-09-09,2024-09-09,I am excited about tomorrow,1
+653,18,unknown,0,2024-12-03,2024-12-03,I had a great day today,1
+656,0,unknown,1,2024-01-14,2024-01-14,I feel tired of everything,1
+656,2,unknown,1,2024-02-14,2024-02-14,I feel hopeless about my future,1
+656,9,unknown,1,2024-05-20,2024-05-20,I feel very lonely these days,1
+656,13,unknown,1,2024-07-25,2024-07-25,I have no motivation anymore,1
+656,19,unknown,1,2024-10-11,2024-10-11,I feel very lonely these days,1
+656,22,unknown,1,2024-11-19,2024-11-19,I feel very lonely these days,1
+681,0,unknown,0,2024-01-21,2024-01-21,I feel happy and motivated,1
+681,0,unknown,1,2024-01-10,2024-01-10,I can't find joy in anything,1
+681,6,unknown,0,2024-04-03,2024-04-03,I had a good conversation today,1
+681,9,unknown,1,2024-05-20,2024-05-20,I feel very sad and lonely,1
+681,15,unknown,0,2024-08-13,2024-08-13,I enjoyed spending time with friends,1
+681,16,unknown,1,2024-08-28,2024-08-28,I feel like nobody understands me,1
+681,18,unknown,1,2024-09-28,2024-09-28,Nothing makes me happy anymore,1
+681,19,unknown,1,2024-10-06,2024-10-06,I feel very sad and lonely,1
+695,0,unknown,1,2024-01-14,2024-01-14,I feel very sad and lonely,1
+695,15,unknown,1,2024-08-16,2024-08-16,Life feels meaningless,1
+695,16,unknown,0,2024-08-29,2024-08-29,I had a great day today,1
+707,0,unknown,1,2024-02-23,2024-02-23,I can't find joy in anything,1
+707,2,unknown,1,2024-04-03,2024-04-03,I feel hopeless about my future,1
+707,7,unknown,0,2024-06-04,2024-06-04,I had a great day today,1
+707,12,unknown,0,2024-08-18,2024-08-18,I love playing sports,1
+707,19,unknown,1,2024-11-26,2024-11-26,I feel very lonely these days,1
+707,21,unknown,0,2024-12-23,2024-12-23,I feel happy and motivated,1
+708,0,unknown,1,2024-01-30,2024-02-07,I feel like nobody understands me </s> I can't find joy in anything </s> Nothing makes me happy anymore,3
+708,8,unknown,0,2024-05-21,2024-05-21,Today was productive and fun,1
+708,8,unknown,1,2024-05-21,2024-05-21,I feel hopeless about my future,1
+708,9,unknown,1,2024-06-12,2024-06-12,I feel very lonely these days,1
+708,11,unknown,0,2024-07-04,2024-07-04,Today was a relaxing day,1
+712,0,unknown,0,2024-02-17,2024-02-17,I feel happy and motivated,1
+712,9,unknown,1,2024-06-25,2024-06-25,I feel hopeless about my future,1
+712,15,unknown,0,2024-09-14,2024-09-14,I enjoyed spending time with friends,1
+729,0,unknown,1,2024-02-10,2024-02-10,I feel empty inside,1
+729,8,unknown,0,2024-06-07,2024-06-07,I watched a great movie today,1
+729,9,unknown,1,2024-06-17,2024-06-17,I have no motivation anymore,1
+729,16,unknown,1,2024-09-28,2024-09-28,Nothing makes me happy anymore,1
+729,21,unknown,1,2024-12-13,2024-12-13,Nothing makes me happy anymore,1
+732,0,unknown,1,2024-06-20,2024-06-20,I feel hopeless about my future,1
+732,4,unknown,1,2024-08-28,2024-08-28,Nothing makes me happy anymore,1
+743,0,unknown,0,2024-01-19,2024-01-19,I enjoyed a nice walk outside,1
+743,7,unknown,0,2024-05-06,2024-05-06,I enjoyed spending time with friends,1
+743,9,unknown,1,2024-06-05,2024-06-05,I have no motivation anymore,1
+743,13,unknown,0,2024-07-22,2024-07-22,Today was productive and fun,1
+743,20,unknown,0,2024-11-01,2024-11-01,I love playing sports,1
+745,0,unknown,1,2024-03-02,2024-03-02,Life feels meaningless,1
+745,20,unknown,1,2024-12-09,2024-12-19,Nothing makes me happy anymore </s> I feel tired of everything,2
+754,0,unknown,1,2024-11-24,2024-11-24,I feel empty inside,1
+754,1,unknown,1,2024-12-21,2024-12-21,Life feels meaningless,1
+758,0,unknown,0,2024-02-09,2024-02-09,I enjoyed spending time with friends,1
+758,9,unknown,0,2024-06-15,2024-06-15,I had a good conversation today,1
+758,17,unknown,0,2024-10-14,2024-10-14,Today was a relaxing day,1
+758,17,unknown,1,2024-10-15,2024-10-15,Life feels meaningless,1
+758,22,unknown,1,2024-12-15,2024-12-15,Life feels meaningless,1
+759,0,unknown,0,2024-03-26,2024-03-26,Today was productive and fun,1
+759,7,unknown,0,2024-07-13,2024-07-13,I watched a great movie today,1
+759,12,unknown,0,2024-09-17,2024-09-17,I love playing sports,1
+759,14,unknown,0,2024-10-16,2024-10-16,Today was productive and fun,1
+759,19,unknown,1,2024-12-29,2024-12-29,I feel like nobody understands me,1
+761,0,unknown,0,2024-01-01,2024-01-13,I had a good conversation today </s> I had a great day today,2
+761,1,unknown,0,2024-01-24,2024-01-24,I watched a great movie today,1
+761,6,unknown,0,2024-03-30,2024-03-30,I feel happy and motivated,1
+761,11,unknown,0,2024-06-13,2024-06-13,Today was productive and fun,1
+761,17,unknown,1,2024-08-26,2024-08-26,I can't find joy in anything,1
+761,21,unknown,0,2024-10-21,2024-10-21,I had a good conversation today,1
+761,26,unknown,0,2024-12-31,2024-12-31,I am excited about tomorrow,1
+774,0,unknown,1,2024-01-07,2024-01-07,I feel hopeless about my future,1
+774,21,unknown,1,2024-10-27,2024-10-27,Life feels meaningless,1
+774,23,unknown,0,2024-12-01,2024-12-01,I had a good conversation today,1
+779,0,unknown,0,2024-02-18,2024-02-18,I am excited about tomorrow,1
+779,8,unknown,0,2024-06-22,2024-06-22,I enjoyed spending time with friends,1
+779,10,unknown,0,2024-07-10,2024-07-10,I enjoyed a nice walk outside,1
+779,11,unknown,0,2024-08-01,2024-08-01,I enjoyed a nice walk outside,1
+779,18,unknown,1,2024-10-27,2024-10-27,I feel very sad and lonely,1
+779,22,unknown,0,2024-12-31,2024-12-31,I watched a great movie today,1
+782,0,unknown,1,2024-02-12,2024-02-12,Nothing makes me happy anymore,1
+782,14,unknown,0,2024-09-07,2024-09-07,Today was a relaxing day,1
+782,15,unknown,0,2024-09-13,2024-09-13,I enjoyed a nice walk outside,1
+782,16,unknown,0,2024-10-01,2024-10-01,I watched a great movie today,1
+784,0,unknown,0,2024-02-25,2024-02-25,I enjoyed a nice walk outside,1
+784,16,unknown,1,2024-10-14,2024-10-14,I feel very lonely these days,1
+784,19,unknown,0,2024-11-27,2024-11-27,I watched a great movie today,1
+787,0,unknown,1,2024-03-26,2024-03-26,I have no motivation anymore,1
+787,1,unknown,1,2024-04-20,2024-04-20,I feel hopeless about my future,1
+787,5,unknown,0,2024-06-11,2024-06-11,I watched a great movie today,1
+787,6,unknown,1,2024-06-21,2024-06-21,I feel like nobody understands me,1
+787,7,unknown,1,2024-07-07,2024-07-07,I can't find joy in anything </s> I feel like nobody understands me,2
+787,9,unknown,0,2024-08-02,2024-08-07,I enjoyed a nice walk outside </s> I enjoyed a nice walk outside,2
+787,11,unknown,1,2024-08-30,2024-08-30,I feel very sad and lonely,1
+789,0,unknown,0,2024-06-12,2024-06-12,Today was productive and fun,1
+790,0,unknown,0,2024-01-30,2024-01-30,I had a great day today,1
+790,2,unknown,1,2024-03-07,2024-03-07,I feel very lonely these days,1
+800,0,unknown,1,2024-04-29,2024-04-29,I feel tired of everything,1
+800,3,unknown,1,2024-06-12,2024-06-12,Nothing makes me happy anymore,1
+800,8,unknown,0,2024-08-31,2024-08-31,I had a good conversation today,1
+800,12,unknown,1,2024-10-22,2024-10-22,I feel very sad and lonely,1
+820,0,unknown,0,2024-02-16,2024-02-16,I had a great day today,1
+820,0,unknown,1,2024-02-03,2024-02-03,Life feels meaningless,1
+820,14,unknown,0,2024-08-29,2024-08-29,I enjoyed a nice walk outside,1
+820,19,unknown,0,2024-11-08,2024-11-08,I feel happy and motivated,1
+820,23,unknown,1,2024-12-25,2024-12-25,I have no motivation anymore,1
+821,0,unknown,0,2024-01-12,2024-01-12,I had a great day today,1
+821,14,unknown,0,2024-07-26,2024-07-26,Today was a relaxing day,1
+826,0,unknown,0,2024-02-24,2024-02-24,Today was productive and fun,1
+826,4,unknown,1,2024-04-26,2024-04-26,I feel empty inside,1
+826,5,unknown,0,2024-05-09,2024-05-09,Today was a relaxing day,1
+826,7,unknown,1,2024-06-10,2024-06-10,I feel empty inside,1
+826,9,unknown,0,2024-07-04,2024-07-04,I enjoyed a nice walk outside,1
+826,10,unknown,1,2024-07-22,2024-07-22,I feel very sad and lonely,1
+826,12,unknown,0,2024-08-21,2024-08-21,I enjoyed a nice walk outside,1
+826,18,unknown,0,2024-11-02,2024-11-02,I watched a great movie today,1
+826,19,unknown,0,2024-11-27,2024-11-27,I feel happy and motivated,1
+831,0,unknown,1,2024-03-31,2024-03-31,Life feels meaningless,1
+831,5,unknown,1,2024-06-21,2024-06-21,I feel very lonely these days,1
+831,9,unknown,0,2024-08-07,2024-08-07,I feel happy and motivated,1
+831,18,unknown,0,2024-12-12,2024-12-12,I am excited about tomorrow,1
+838,0,unknown,1,2024-01-22,2024-01-22,I feel very sad and lonely,1
+838,10,unknown,0,2024-06-13,2024-06-13,I had a great day today,1
+838,14,unknown,0,2024-08-06,2024-08-06,I enjoyed a nice walk outside,1
+838,17,unknown,1,2024-09-16,2024-09-16,I can't find joy in anything,1
+838,18,unknown,1,2024-10-02,2024-10-02,I feel very sad and lonely,1
+838,21,unknown,0,2024-11-18,2024-11-18,I enjoyed a nice walk outside,1
+838,23,unknown,1,2024-12-10,2024-12-10,I feel very sad and lonely,1
+845,0,unknown,0,2024-03-24,2024-03-24,Today was a relaxing day,1
+845,0,unknown,1,2024-04-04,2024-04-04,I feel very lonely these days,1
+845,3,unknown,0,2024-05-12,2024-05-12,I had a good conversation today,1
+845,4,unknown,0,2024-05-25,2024-05-25,Today was productive and fun,1
+845,7,unknown,0,2024-07-04,2024-07-04,I am excited about tomorrow,1
+845,16,unknown,1,2024-11-14,2024-11-14,Nothing makes me happy anymore,1
+851,0,unknown,1,2024-01-05,2024-01-05,I can't find joy in anything,1
+851,10,unknown,1,2024-05-29,2024-05-29,I can't find joy in anything,1
+851,20,unknown,1,2024-10-13,2024-10-13,I feel tired of everything,1
+851,22,unknown,0,2024-11-14,2024-11-14,I enjoyed spending time with friends,1
+883,0,unknown,1,2024-03-04,2024-03-04,I can't find joy in anything,1
+883,3,unknown,0,2024-04-17,2024-04-17,I watched a great movie today,1
+883,3,unknown,1,2024-04-22,2024-04-22,I feel very lonely these days,1
+883,8,unknown,0,2024-06-30,2024-06-30,Today was a relaxing day,1
+883,9,unknown,1,2024-07-19,2024-07-19,Nothing makes me happy anymore,1
+883,14,unknown,0,2024-09-23,2024-09-23,I love playing sports,1
+883,16,unknown,1,2024-10-27,2024-10-27,I feel very lonely these days,1
+883,21,unknown,1,2024-12-26,2024-12-26,I feel very sad and lonely,1
+891,0,unknown,0,2024-01-25,2024-01-25,I had a good conversation today,1
+891,7,unknown,0,2024-05-12,2024-05-12,I watched a great movie today,1
+891,21,unknown,0,2024-11-22,2024-11-22,I enjoyed spending time with friends,1
+891,23,unknown,1,2024-12-23,2024-12-23,I feel hopeless about my future,1
+894,0,unknown,1,2024-02-07,2024-02-07,I have no motivation anymore,1
+894,2,unknown,0,2024-03-14,2024-03-14,I am excited about tomorrow,1
+894,11,unknown,0,2024-07-12,2024-07-12,Today was a relaxing day,1
+894,12,unknown,1,2024-07-26,2024-07-26,I feel very lonely these days,1
+894,13,unknown,0,2024-08-17,2024-08-17,I had a good conversation today,1
+894,20,unknown,1,2024-11-15,2024-11-15,I feel tired of everything,1
+894,22,unknown,1,2024-12-24,2024-12-24,Life feels meaningless,1
+905,0,unknown,1,2024-02-20,2024-02-20,Life feels meaningless,1
+905,3,unknown,1,2024-04-15,2024-04-15,I feel hopeless about my future,1
+905,4,unknown,0,2024-04-29,2024-04-29,I enjoyed spending time with friends,1
+905,18,unknown,1,2024-10-30,2024-10-30,I feel hopeless about my future,1
+906,0,unknown,1,2024-01-18,2024-01-18,I feel very lonely these days,1
+906,3,unknown,1,2024-02-29,2024-02-29,I feel very sad and lonely,1
+906,6,unknown,1,2024-04-12,2024-04-12,Life feels meaningless,1
+906,18,unknown,0,2024-09-28,2024-10-07,I watched a great movie today </s> Today was a relaxing day,2
+906,24,unknown,0,2024-12-30,2024-12-30,I am excited about tomorrow,1
+907,0,unknown,0,2024-04-13,2024-04-13,I feel happy and motivated,1
+907,1,unknown,0,2024-05-08,2024-05-08,I had a good conversation today,1
+907,6,unknown,0,2024-07-12,2024-07-13,Today was productive and fun </s> Today was a relaxing day,2
+907,6,unknown,1,2024-07-12,2024-07-12,I feel very sad and lonely,1
+907,12,unknown,0,2024-09-29,2024-09-29,I enjoyed spending time with friends,1
+911,0,unknown,1,2024-01-15,2024-01-15,Life feels meaningless,1
+911,5,unknown,1,2024-03-26,2024-03-26,I have no motivation anymore,1
+911,10,unknown,1,2024-06-09,2024-06-09,I can't find joy in anything,1
+911,20,unknown,0,2024-10-23,2024-10-23,I love playing sports,1
+911,22,unknown,0,2024-11-23,2024-11-23,Today was productive and fun,1
+917,0,unknown,0,2024-04-13,2024-04-13,I had a great day today,1
+917,1,unknown,0,2024-05-06,2024-05-06,I enjoyed spending time with friends,1
+917,3,unknown,1,2024-06-01,2024-06-01,I feel tired of everything,1
+917,4,unknown,0,2024-06-16,2024-06-16,Today was productive and fun,1
+917,5,unknown,1,2024-07-04,2024-07-04,I feel empty inside,1
+917,6,unknown,1,2024-07-07,2024-07-07,Life feels meaningless,1
+917,7,unknown,0,2024-07-30,2024-07-30,I had a good conversation today,1
+917,7,unknown,1,2024-07-22,2024-07-22,I feel very lonely these days,1
+917,14,unknown,1,2024-11-05,2024-11-05,I feel tired of everything,1
+917,17,unknown,1,2024-12-10,2024-12-10,Nothing makes me happy anymore,1
+923,0,unknown,1,2024-04-28,2024-04-28,I feel very lonely these days,1
+923,1,unknown,1,2024-05-23,2024-05-23,I feel empty inside,1
+923,2,unknown,0,2024-06-04,2024-06-04,I love playing sports,1
+923,3,unknown,1,2024-06-20,2024-06-20,I can't find joy in anything,1
+923,12,unknown,1,2024-10-14,2024-10-14,I feel very lonely these days,1
+924,0,unknown,0,2024-04-12,2024-04-12,I am excited about tomorrow,1
+924,3,unknown,1,2024-05-25,2024-05-25,I feel like nobody understands me,1
+928,0,unknown,1,2024-02-28,2024-03-08,I feel very sad and lonely </s> Nothing makes me happy anymore,2
+928,1,unknown,0,2024-03-22,2024-03-22,I love playing sports,1
+928,7,unknown,0,2024-06-11,2024-06-11,I enjoyed a nice walk outside,1
+928,11,unknown,0,2024-08-04,2024-08-04,Today was a relaxing day,1
+928,12,unknown,0,2024-08-21,2024-08-21,I had a good conversation today,1
+928,13,unknown,0,2024-09-08,2024-09-08,I enjoyed a nice walk outside,1
+928,14,unknown,1,2024-09-19,2024-09-19,Nothing makes me happy anymore,1
+932,0,unknown,0,2024-01-04,2024-01-04,Today was a relaxing day,1
+932,6,unknown,0,2024-03-30,2024-03-30,I watched a great movie today,1
+934,0,unknown,1,2024-02-13,2024-02-13,Nothing makes me happy anymore,1
+934,4,unknown,0,2024-04-17,2024-04-17,I enjoyed a nice walk outside,1
+934,5,unknown,1,2024-05-06,2024-05-06,Life feels meaningless,1
+934,14,unknown,0,2024-09-05,2024-09-05,I enjoyed a nice walk outside,1
+938,0,unknown,1,2024-05-29,2024-05-29,I can't find joy in anything,1
+938,7,unknown,1,2024-09-13,2024-09-13,I feel hopeless about my future,1
+939,0,unknown,1,2024-03-14,2024-03-14,I have no motivation anymore,1
+939,6,unknown,0,2024-06-18,2024-06-18,I had a good conversation today,1
+939,7,unknown,0,2024-06-23,2024-06-30,I love playing sports </s> Today was productive and fun,2
+941,0,unknown,0,2024-01-16,2024-01-16,Today was a relaxing day,1
+941,11,unknown,0,2024-06-20,2024-06-20,Today was productive and fun,1
+941,20,unknown,1,2024-11-04,2024-11-04,I feel like nobody understands me,1
+941,22,unknown,0,2024-11-22,2024-11-22,Today was productive and fun,1
+942,0,unknown,1,2024-02-08,2024-02-08,Nothing makes me happy anymore,1
+942,11,unknown,1,2024-07-14,2024-07-14,I feel like nobody understands me,1
+942,15,unknown,1,2024-09-15,2024-09-15,I feel very lonely these days,1
+942,16,unknown,1,2024-10-01,2024-10-01,I can't find joy in anything,1
+942,17,unknown,1,2024-10-11,2024-10-11,I feel empty inside,1
+942,20,unknown,1,2024-11-20,2024-11-20,Life feels meaningless,1
+946,0,unknown,0,2024-01-24,2024-01-24,I love playing sports,1
+951,0,unknown,0,2024-05-27,2024-05-27,Today was a relaxing day,1
+951,0,unknown,1,2024-06-03,2024-06-03,I feel tired of everything,1
+951,5,unknown,0,2024-08-07,2024-08-07,I love playing sports,1
+951,5,unknown,1,2024-08-07,2024-08-07,I feel tired of everything,1
+951,9,unknown,1,2024-10-04,2024-10-04,I can't find joy in anything,1
+951,13,unknown,0,2024-11-27,2024-11-27,I had a great day today,1
+951,14,unknown,1,2024-12-13,2024-12-13,I have no motivation anymore,1
+952,0,unknown,1,2024-03-14,2024-03-14,I feel empty inside,1
+952,16,unknown,0,2024-10-29,2024-10-29,Today was productive and fun,1
+965,0,unknown,1,2024-02-19,2024-02-19,I feel very sad and lonely,1
+965,7,unknown,1,2024-05-30,2024-05-30,I can't find joy in anything,1
+965,14,unknown,0,2024-09-05,2024-09-05,I love playing sports,1
+965,16,unknown,0,2024-10-03,2024-10-03,I feel happy and motivated,1
+965,20,unknown,0,2024-12-03,2024-12-03,I feel happy and motivated,1
+975,0,unknown,1,2024-07-07,2024-07-07,I can't find joy in anything,1
+975,5,unknown,1,2024-09-19,2024-09-19,I feel very lonely these days,1
+975,7,unknown,0,2024-10-16,2024-10-16,I enjoyed a nice walk outside,1
+975,11,unknown,1,2024-12-13,2024-12-13,I feel tired of everything,1
+987,0,unknown,0,2024-04-11,2024-04-11,Today was productive and fun,1
+987,13,unknown,1,2024-10-21,2024-10-21,I feel like nobody understands me,1
+987,18,unknown,0,2024-12-21,2024-12-21,I feel happy and motivated,1
+989,0,unknown,0,2024-02-07,2024-02-07,I enjoyed a nice walk outside,1
+989,4,unknown,1,2024-04-11,2024-04-11,I feel like nobody understands me,1
+989,14,unknown,0,2024-09-03,2024-09-03,I am excited about tomorrow,1
+989,15,unknown,0,2024-09-06,2024-09-06,I watched a great movie today,1
+989,18,unknown,1,2024-10-18,2024-10-18,I can't find joy in anything,1
+990,0,unknown,0,2024-03-06,2024-03-06,I had a great day today,1
+990,3,unknown,0,2024-04-30,2024-04-30,I had a good conversation today,1
+990,6,unknown,1,2024-06-11,2024-06-11,I feel very lonely these days,1
+990,7,unknown,0,2024-06-18,2024-06-18,I had a great day today,1
+990,12,unknown,1,2024-09-01,2024-09-01,I feel very sad and lonely,1
+990,18,unknown,0,2024-11-13,2024-11-13,I watched a great movie today,1
+992,0,unknown,1,2024-03-04,2024-03-04,I feel very lonely these days,1
+992,1,unknown,1,2024-03-30,2024-03-30,I have no motivation anymore,1
+992,6,unknown,1,2024-06-04,2024-06-04,I feel tired of everything,1
+992,11,unknown,0,2024-08-07,2024-08-07,I am excited about tomorrow,1
+992,16,unknown,1,2024-10-15,2024-10-15,I feel very lonely these days,1
+995,0,unknown,1,2024-02-23,2024-02-23,I have no motivation anymore,1
+995,2,unknown,1,2024-04-01,2024-04-01,I feel very lonely these days,1
+995,13,unknown,1,2024-09-05,2024-09-05,I feel tired of everything,1
+995,18,unknown,0,2024-11-02,2024-11-02,I am excited about tomorrow,1
+1000,0,unknown,0,2024-05-11,2024-05-11,I feel happy and motivated,1
+1000,5,unknown,0,2024-07-23,2024-07-23,Today was a relaxing day,1
+1001,0,unknown,0,2024-01-27,2024-01-27,I enjoyed spending time with friends,1
+1001,3,unknown,1,2024-03-11,2024-03-11,Nothing makes me happy anymore,1
+1001,8,unknown,1,2024-05-25,2024-05-25,I feel like nobody understands me,1
+1001,11,unknown,0,2024-07-11,2024-07-11,I enjoyed spending time with friends,1
+1001,16,unknown,1,2024-09-07,2024-09-07,I feel very lonely these days,1
+1003,0,unknown,0,2024-03-14,2024-03-14,Today was a relaxing day,1
+1003,3,unknown,1,2024-05-05,2024-05-05,I feel very lonely these days,1
+1003,5,unknown,1,2024-05-31,2024-05-31,Nothing makes me happy anymore,1
+1003,6,unknown,0,2024-06-10,2024-06-10,I feel happy and motivated,1
+1003,7,unknown,0,2024-06-29,2024-06-29,I enjoyed a nice walk outside,1
+1003,8,unknown,0,2024-07-05,2024-07-05,I love playing sports,1
+1003,15,unknown,0,2024-10-15,2024-10-15,I watched a great movie today,1
+1003,17,unknown,1,2024-11-13,2024-11-13,I can't find joy in anything,1
+1009,0,unknown,0,2024-01-30,2024-01-30,I enjoyed a nice walk outside,1
+1009,5,unknown,0,2024-04-11,2024-04-11,I watched a great movie today,1
+1009,12,unknown,0,2024-07-27,2024-07-27,Today was productive and fun,1
+1009,23,unknown,0,2024-12-17,2024-12-17,I enjoyed spending time with friends,1
+1011,0,unknown,0,2024-01-10,2024-01-10,I watched a great movie today,1
+1011,0,unknown,1,2024-01-07,2024-01-07,I have no motivation anymore,1
+1011,7,unknown,1,2024-04-23,2024-04-23,I feel empty inside,1
+1011,8,unknown,1,2024-05-09,2024-05-09,I feel tired of everything,1
+1012,0,unknown,1,2024-12-18,2024-12-18,Nothing makes me happy anymore,1
+1025,0,unknown,0,2024-02-11,2024-02-11,I had a great day today,1
+1025,5,unknown,1,2024-04-24,2024-04-24,Nothing makes me happy anymore,1
+1025,18,unknown,1,2024-10-31,2024-10-31,I feel very sad and lonely,1
+1036,0,unknown,1,2024-01-08,2024-01-08,I feel empty inside,1
+1036,5,unknown,1,2024-03-21,2024-03-21,I feel empty inside,1
+1036,6,unknown,1,2024-04-02,2024-04-02,I have no motivation anymore,1
+1036,7,unknown,0,2024-04-17,2024-04-17,I feel happy and motivated,1
+1036,9,unknown,1,2024-05-16,2024-05-16,I feel like nobody understands me,1
+1045,0,unknown,0,2024-06-24,2024-06-24,I enjoyed spending time with friends,1
+1045,2,unknown,0,2024-08-04,2024-08-04,I watched a great movie today,1
+1045,4,unknown,1,2024-08-20,2024-08-20,I feel empty inside,1
+1045,9,unknown,1,2024-11-03,2024-11-03,Life feels meaningless,1
+1054,0,unknown,1,2024-02-17,2024-02-17,I feel tired of everything,1
+1054,2,unknown,0,2024-03-23,2024-03-27,I watched a great movie today </s> I had a good conversation today,2
+1054,5,unknown,1,2024-05-07,2024-05-07,I have no motivation anymore,1
+1054,10,unknown,0,2024-07-11,2024-07-11,I had a good conversation today,1
+1054,21,unknown,0,2024-12-18,2024-12-18,I am excited about tomorrow,1
+1065,0,unknown,0,2024-04-24,2024-04-24,I feel happy and motivated,1
+1065,3,unknown,1,2024-06-06,2024-06-06,I feel empty inside,1
+1065,9,unknown,0,2024-09-04,2024-09-04,I watched a great movie today,1
+1065,10,unknown,1,2024-09-12,2024-09-12,I feel tired of everything,1
+1065,11,unknown,0,2024-09-27,2024-09-27,I had a good conversation today,1
+1080,0,unknown,1,2024-01-18,2024-01-18,I feel very lonely these days,1
+1080,6,unknown,0,2024-04-17,2024-04-17,Today was productive and fun,1
+1080,8,unknown,0,2024-05-22,2024-05-22,I watched a great movie today,1
+1080,9,unknown,0,2024-05-31,2024-05-31,I had a good conversation today,1
+1080,9,unknown,1,2024-06-01,2024-06-01,I feel empty inside,1
+1080,13,unknown,1,2024-07-25,2024-07-25,I feel empty inside,1
+1080,21,unknown,0,2024-11-11,2024-11-11,I feel happy and motivated,1
+1082,0,unknown,1,2024-07-04,2024-07-04,I can't find joy in anything,1
+1082,6,unknown,0,2024-09-27,2024-09-27,I am excited about tomorrow,1
+1087,0,unknown,0,2024-04-26,2024-04-26,I enjoyed spending time with friends,1
+1087,3,unknown,0,2024-06-17,2024-06-19,I am excited about tomorrow </s> I am excited about tomorrow,2
+1087,14,unknown,1,2024-11-15,2024-11-15,I can't find joy in anything,1
+1089,0,unknown,1,2024-05-28,2024-05-28,I feel very lonely these days,1
+1089,9,unknown,0,2024-10-13,2024-10-13,Today was a relaxing day,1
+1089,12,unknown,1,2024-11-25,2024-11-25,Life feels meaningless,1
+1089,14,unknown,0,2024-12-21,2024-12-21,I enjoyed a nice walk outside,1
+1091,0,unknown,1,2024-01-20,2024-01-20,Nothing makes me happy anymore,1
+1091,8,unknown,0,2024-05-21,2024-05-21,Today was a relaxing day,1
+1091,14,unknown,0,2024-08-06,2024-08-06,I had a good conversation today,1
+1091,19,unknown,1,2024-10-22,2024-10-22,I have no motivation anymore,1
+1091,22,unknown,0,2024-11-29,2024-11-29,Today was productive and fun,1
+1104,0,unknown,0,2024-03-04,2024-03-04,I had a good conversation today,1
+1104,8,unknown,0,2024-07-05,2024-07-05,I feel happy and motivated,1
+1104,11,unknown,0,2024-08-09,2024-08-09,I enjoyed a nice walk outside,1
+1104,18,unknown,1,2024-11-21,2024-11-21,I feel hopeless about my future,1
+1105,0,unknown,1,2024-03-13,2024-03-25,I feel empty inside </s> I feel empty inside,2
+1105,6,unknown,0,2024-06-07,2024-06-07,I had a great day today,1
+1105,9,unknown,0,2024-07-22,2024-07-22,I enjoyed spending time with friends,1
+1105,12,unknown,1,2024-09-10,2024-09-10,I feel very lonely these days,1
+1105,15,unknown,0,2024-10-19,2024-10-19,Today was a relaxing day,1
+1105,18,unknown,0,2024-11-30,2024-11-30,I love playing sports,1
+1105,20,unknown,1,2024-12-26,2024-12-26,I feel like nobody understands me,1
+1107,0,unknown,1,2024-08-18,2024-08-18,Life feels meaningless,1
+1108,0,unknown,0,2024-01-16,2024-01-16,I love playing sports,1
+1108,8,unknown,0,2024-05-14,2024-05-14,I enjoyed a nice walk outside,1
+1108,18,unknown,0,2024-10-07,2024-10-07,I enjoyed spending time with friends,1
+1108,19,unknown,1,2024-10-16,2024-10-16,I can't find joy in anything,1
+1108,21,unknown,1,2024-11-18,2024-11-18,I feel very lonely these days,1
+1108,22,unknown,0,2024-11-30,2024-11-30,I feel happy and motivated,1
+1108,24,unknown,0,2024-12-29,2024-12-29,I had a good conversation today,1
+1109,0,unknown,1,2024-02-05,2024-02-10,Life feels meaningless </s> Life feels meaningless,2
+1109,3,unknown,1,2024-03-31,2024-03-31,Nothing makes me happy anymore,1
+1109,4,unknown,1,2024-04-11,2024-04-11,I have no motivation anymore,1
+1109,5,unknown,1,2024-04-17,2024-04-17,I feel like nobody understands me,1
+1109,7,unknown,0,2024-05-15,2024-05-15,I had a great day today,1
+1109,8,unknown,1,2024-06-07,2024-06-07,I feel very sad and lonely,1
+1109,12,unknown,1,2024-07-28,2024-07-28,I have no motivation anymore,1
+1115,0,unknown,1,2024-02-26,2024-02-26,I feel very lonely these days,1
+1115,8,unknown,0,2024-06-20,2024-06-22,Today was a relaxing day </s> I feel happy and motivated,2
+1115,8,unknown,1,2024-06-25,2024-06-25,I feel like nobody understands me,1
+1115,13,unknown,1,2024-09-07,2024-09-07,I feel very sad and lonely,1
+1115,14,unknown,0,2024-09-17,2024-09-17,Today was productive and fun,1
+1118,0,unknown,0,2024-05-03,2024-05-03,I had a good conversation today,1
+1120,0,unknown,1,2024-01-29,2024-01-29,Nothing makes me happy anymore,1
+1120,3,unknown,0,2024-03-13,2024-03-13,Today was productive and fun,1
+1120,4,unknown,0,2024-04-02,2024-04-02,I enjoyed spending time with friends,1
+1120,4,unknown,1,2024-03-26,2024-03-26,I feel very sad and lonely,1
+1120,5,unknown,0,2024-04-13,2024-04-13,I watched a great movie today,1
+1120,15,unknown,0,2024-09-01,2024-09-01,Today was a relaxing day,1
+1120,17,unknown,1,2024-09-24,2024-10-01,I feel empty inside </s> I feel very lonely these days,2
+1120,23,unknown,0,2024-12-29,2024-12-29,I enjoyed a nice walk outside,1
+1126,0,unknown,0,2024-03-04,2024-03-04,I watched a great movie today,1
+1126,2,unknown,0,2024-04-14,2024-04-14,I enjoyed spending time with friends,1
+1126,6,unknown,0,2024-06-06,2024-06-06,I watched a great movie today,1
+1126,8,unknown,0,2024-06-29,2024-07-04,I enjoyed spending time with friends </s> I enjoyed spending time with friends,2
+1126,10,unknown,1,2024-08-01,2024-08-01,I feel very lonely these days,1
+1126,14,unknown,1,2024-09-16,2024-09-16,I feel very lonely these days,1
+1126,18,unknown,0,2024-11-14,2024-11-14,I had a good conversation today,1
+1127,0,unknown,0,2024-01-05,2024-01-05,I enjoyed spending time with friends,1
+1127,13,unknown,0,2024-07-08,2024-07-08,I feel happy and motivated,1
+1127,14,unknown,0,2024-07-20,2024-07-20,Today was a relaxing day,1
+1135,0,unknown,1,2024-03-08,2024-03-08,I feel like nobody understands me,1
+1135,4,unknown,1,2024-05-03,2024-05-03,I feel like nobody understands me,1
+1135,5,unknown,0,2024-05-28,2024-05-29,I feel happy and motivated </s> I had a great day today,2
+1135,21,unknown,0,2024-12-30,2024-12-30,I enjoyed spending time with friends,1
+1136,0,unknown,0,2024-01-03,2024-01-03,I enjoyed a nice walk outside,1
+1136,4,unknown,1,2024-03-09,2024-03-09,I feel tired of everything,1
+1136,12,unknown,0,2024-06-26,2024-06-26,I had a good conversation today,1
+1136,12,unknown,1,2024-07-01,2024-07-01,I feel hopeless about my future,1
+1136,14,unknown,1,2024-07-26,2024-07-26,I can't find joy in anything,1
+1136,24,unknown,0,2024-12-11,2024-12-11,I enjoyed spending time with friends,1
+1136,25,unknown,1,2024-12-18,2024-12-18,I feel tired of everything,1
+1140,0,unknown,1,2024-01-20,2024-01-20,I feel very lonely these days,1
+1140,2,unknown,1,2024-03-01,2024-03-01,Nothing makes me happy anymore,1
+1140,13,unknown,0,2024-07-26,2024-07-26,I am excited about tomorrow,1
+1140,16,unknown,1,2024-09-07,2024-09-07,I can't find joy in anything,1
+1163,0,unknown,1,2024-02-27,2024-02-28,I feel tired of everything </s> I feel very sad and lonely,2
+1163,3,unknown,1,2024-04-09,2024-04-09,I feel very sad and lonely,1
+1163,7,unknown,0,2024-06-09,2024-06-09,I love playing sports,1
+1163,12,unknown,1,2024-08-16,2024-08-16,I feel very lonely these days,1
+1163,18,unknown,0,2024-11-08,2024-11-08,I love playing sports,1
+1163,19,unknown,1,2024-11-23,2024-11-23,I feel very sad and lonely,1
+1166,0,unknown,1,2024-08-09,2024-08-09,I have no motivation anymore,1
+1166,1,unknown,0,2024-09-05,2024-09-05,I love playing sports,1
+1166,2,unknown,1,2024-09-06,2024-09-06,I feel hopeless about my future,1
+1166,4,unknown,0,2024-10-06,2024-10-06,I enjoyed a nice walk outside,1
+1166,6,unknown,0,2024-11-13,2024-11-13,I watched a great movie today,1
+1166,7,unknown,1,2024-11-23,2024-11-23,I have no motivation anymore,1
+1166,9,unknown,0,2024-12-21,2024-12-21,Today was productive and fun,1
+1172,0,unknown,0,2024-02-07,2024-02-07,I love playing sports,1
+1172,3,unknown,1,2024-04-01,2024-04-01,Life feels meaningless,1
+1172,4,unknown,1,2024-04-11,2024-04-11,I feel empty inside,1
+1172,5,unknown,0,2024-04-25,2024-04-25,I enjoyed spending time with friends,1
+1172,7,unknown,1,2024-05-17,2024-05-17,Nothing makes me happy anymore,1
+1172,21,unknown,1,2024-12-06,2024-12-06,I feel tired of everything,1
+1179,0,unknown,1,2024-03-07,2024-03-07,I feel very lonely these days,1
+1179,3,unknown,1,2024-04-30,2024-04-30,I feel like nobody understands me,1
+1179,8,unknown,1,2024-06-27,2024-06-27,Life feels meaningless,1
+1179,13,unknown,1,2024-09-07,2024-09-07,I feel empty inside,1
+1180,0,unknown,0,2024-05-25,2024-05-25,I enjoyed a nice walk outside,1
+1180,2,unknown,1,2024-06-23,2024-06-23,I feel tired of everything,1
+1180,3,unknown,0,2024-07-18,2024-07-18,Today was productive and fun,1
+1180,4,unknown,1,2024-07-27,2024-07-27,I have no motivation anymore,1
+1180,7,unknown,0,2024-09-08,2024-09-08,I feel happy and motivated,1
+1180,13,unknown,1,2024-12-01,2024-12-01,I can't find joy in anything,1
+1185,0,unknown,0,2024-08-30,2024-08-30,I had a good conversation today,1
+1185,7,unknown,0,2024-12-17,2024-12-17,I watched a great movie today,1
+1219,0,unknown,1,2024-03-11,2024-03-11,I can't find joy in anything,1
+1219,2,unknown,0,2024-04-18,2024-04-18,I am excited about tomorrow,1
+1219,3,unknown,0,2024-04-22,2024-04-22,Today was productive and fun,1
+1219,17,unknown,0,2024-11-06,2024-11-06,I feel happy and motivated,1
+1224,0,unknown,1,2024-02-27,2024-02-27,I feel tired of everything,1
+1224,2,unknown,1,2024-03-26,2024-03-26,I feel tired of everything,1
+1224,3,unknown,0,2024-04-17,2024-04-17,I enjoyed spending time with friends,1
+1224,9,unknown,0,2024-07-02,2024-07-02,Today was a relaxing day,1
+1224,14,unknown,1,2024-09-14,2024-09-14,I feel hopeless about my future,1
+1224,20,unknown,1,2024-12-03,2024-12-03,I have no motivation anymore,1
+1229,0,unknown,1,2024-03-03,2024-03-03,Nothing makes me happy anymore,1
+1229,6,unknown,0,2024-06-07,2024-06-07,Today was a relaxing day,1
+1229,13,unknown,1,2024-09-06,2024-09-09,I have no motivation anymore </s> I feel very sad and lonely,2
+1233,0,unknown,1,2024-01-26,2024-01-26,I feel empty inside,1
+1233,17,unknown,0,2024-09-27,2024-09-27,I enjoyed a nice walk outside,1
+1233,23,unknown,0,2024-12-25,2024-12-25,I feel happy and motivated,1
+1234,0,unknown,1,2024-03-10,2024-03-10,I feel tired of everything,1
+1234,14,unknown,1,2024-09-30,2024-09-30,Life feels meaningless,1
+1234,20,unknown,0,2024-12-28,2024-12-28,I am excited about tomorrow,1
+1237,0,unknown,0,2024-01-04,2024-01-04,Today was a relaxing day,1
+1237,2,unknown,0,2024-02-11,2024-02-11,Today was a relaxing day,1
+1237,9,unknown,0,2024-05-09,2024-05-09,I feel happy and motivated,1
+1237,10,unknown,1,2024-05-30,2024-05-30,I feel very lonely these days,1
+1237,12,unknown,0,2024-06-29,2024-06-29,I am excited about tomorrow,1
+1237,21,unknown,0,2024-11-03,2024-11-03,I enjoyed spending time with friends,1
+1238,0,unknown,1,2024-01-28,2024-01-31,I can't find joy in anything </s> I feel very sad and lonely,2
+1238,11,unknown,1,2024-07-01,2024-07-01,I feel empty inside,1
+1238,12,unknown,0,2024-07-26,2024-07-26,I am excited about tomorrow,1
+1238,15,unknown,0,2024-09-04,2024-09-04,I had a great day today,1
+1238,21,unknown,0,2024-11-23,2024-11-23,Today was a relaxing day,1
+1238,23,unknown,0,2024-12-18,2024-12-18,I am excited about tomorrow,1
+1243,0,unknown,0,2024-02-08,2024-02-08,I love playing sports,1
+1243,14,unknown,0,2024-08-22,2024-08-22,I watched a great movie today,1
+1243,17,unknown,0,2024-10-07,2024-10-07,I enjoyed a nice walk outside,1
+1243,21,unknown,1,2024-12-05,2024-12-05,I feel like nobody understands me,1
+1245,0,unknown,0,2024-06-27,2024-06-27,I watched a great movie today,1
+1245,1,unknown,1,2024-07-15,2024-07-15,I have no motivation anymore,1
+1245,12,unknown,0,2024-12-19,2024-12-19,I am excited about tomorrow,1
+1247,0,unknown,0,2024-02-11,2024-02-11,I had a great day today,1
+1247,8,unknown,0,2024-06-14,2024-06-14,Today was productive and fun,1
+1247,20,unknown,0,2024-11-23,2024-11-23,I feel happy and motivated,1
+1250,0,unknown,1,2024-02-29,2024-02-29,I feel hopeless about my future,1
+1250,1,unknown,0,2024-03-23,2024-03-23,Today was productive and fun,1
+1250,2,unknown,0,2024-04-10,2024-04-10,I love playing sports,1
+1250,3,unknown,1,2024-04-24,2024-04-24,I feel like nobody understands me,1
+1250,4,unknown,0,2024-05-01,2024-05-01,I enjoyed spending time with friends,1
+1250,5,unknown,1,2024-05-22,2024-05-22,I can't find joy in anything,1
+1250,8,unknown,1,2024-07-02,2024-07-02,I feel very lonely these days,1
+1250,13,unknown,1,2024-09-08,2024-09-08,I have no motivation anymore,1
+1250,14,unknown,0,2024-09-14,2024-09-14,I had a great day today,1
+1250,16,unknown,0,2024-10-16,2024-10-16,I had a good conversation today,1
+1250,17,unknown,0,2024-10-28,2024-10-28,Today was a relaxing day,1
+1250,17,unknown,1,2024-10-31,2024-10-31,I feel hopeless about my future,1
+1254,0,unknown,0,2024-06-30,2024-06-30,I watched a great movie today,1
+1254,2,unknown,0,2024-08-02,2024-08-02,I love playing sports,1
+1254,9,unknown,1,2024-11-05,2024-11-05,Nothing makes me happy anymore,1
+1254,11,unknown,0,2024-12-08,2024-12-08,I had a great day today,1
+1255,0,unknown,1,2024-04-09,2024-04-09,I feel hopeless about my future,1
+1255,3,unknown,0,2024-05-21,2024-05-21,Today was a relaxing day,1
+1255,3,unknown,1,2024-05-30,2024-05-30,I feel very lonely these days,1
+1255,6,unknown,1,2024-07-15,2024-07-15,I can't find joy in anything,1
+1255,11,unknown,0,2024-09-22,2024-09-22,I enjoyed spending time with friends,1
+1255,14,unknown,0,2024-10-29,2024-10-29,I had a great day today,1
+1255,17,unknown,1,2024-12-05,2024-12-05,I feel tired of everything,1
+1258,0,unknown,0,2024-09-13,2024-09-13,I feel happy and motivated,1
+1258,6,unknown,0,2024-12-15,2024-12-15,I had a good conversation today,1
+1266,0,unknown,1,2024-04-27,2024-04-27,I feel tired of everything,1
+1266,7,unknown,0,2024-08-14,2024-08-14,Today was a relaxing day,1
+1271,0,unknown,0,2024-02-03,2024-02-03,I watched a great movie today,1
+1271,11,unknown,1,2024-07-14,2024-07-14,I feel tired of everything,1
+1271,18,unknown,0,2024-10-18,2024-10-18,I love playing sports,1
+1271,20,unknown,1,2024-11-15,2024-11-15,I feel empty inside,1
+1271,21,unknown,0,2024-11-27,2024-11-27,I feel happy and motivated,1
+1272,0,unknown,0,2024-06-26,2024-06-26,I had a great day today,1
+1272,3,unknown,0,2024-08-07,2024-08-07,Today was a relaxing day,1
+1272,5,unknown,1,2024-09-07,2024-09-07,I feel very lonely these days,1
+1273,0,unknown,1,2024-03-21,2024-03-21,I feel very sad and lonely,1
+1273,2,unknown,0,2024-04-30,2024-04-30,Today was productive and fun,1
+1273,9,unknown,1,2024-07-28,2024-07-28,Nothing makes me happy anymore,1
+1273,15,unknown,1,2024-10-30,2024-10-30,I feel like nobody understands me,1
+1273,16,unknown,0,2024-11-04,2024-11-04,Today was a relaxing day,1
+1273,17,unknown,0,2024-11-15,2024-11-15,I feel happy and motivated,1
+1273,18,unknown,1,2024-12-06,2024-12-11,I feel tired of everything </s> I have no motivation anymore,2
+1274,0,unknown,0,2024-01-29,2024-01-29,I had a good conversation today,1
+1274,8,unknown,0,2024-05-20,2024-05-20,I enjoyed a nice walk outside,1
+1274,13,unknown,1,2024-08-02,2024-08-02,I feel very lonely these days,1
+1274,20,unknown,0,2024-11-08,2024-11-08,I feel happy and motivated,1
+1274,22,unknown,0,2024-12-05,2024-12-05,I enjoyed a nice walk outside,1
+1276,0,unknown,0,2024-04-22,2024-04-22,I feel happy and motivated,1
+1276,3,unknown,0,2024-06-11,2024-06-11,I enjoyed spending time with friends,1
+1276,11,unknown,0,2024-10-05,2024-10-05,I had a good conversation today,1
+1277,0,unknown,1,2024-05-05,2024-05-05,Life feels meaningless,1
+1277,1,unknown,1,2024-05-30,2024-05-30,Life feels meaningless,1
+1277,9,unknown,0,2024-09-18,2024-09-18,I watched a great movie today,1
+1287,0,unknown,0,2024-02-09,2024-02-09,Today was a relaxing day,1
+1287,12,unknown,1,2024-07-26,2024-07-26,I have no motivation anymore,1
+1287,21,unknown,1,2024-11-30,2024-11-30,I have no motivation anymore,1
+1288,0,unknown,0,2024-01-27,2024-01-27,I feel happy and motivated,1
+1288,4,unknown,1,2024-04-03,2024-04-03,I feel very lonely these days,1
+1288,5,unknown,0,2024-04-10,2024-04-10,I enjoyed a nice walk outside,1
+1288,6,unknown,0,2024-04-29,2024-04-29,Today was a relaxing day,1
+1288,8,unknown,0,2024-05-29,2024-05-29,I had a great day today,1
+1288,9,unknown,1,2024-06-12,2024-06-12,I can't find joy in anything,1
+1288,23,unknown,0,2024-12-16,2024-12-16,I feel happy and motivated,1
+1289,0,unknown,1,2024-05-01,2024-05-01,I feel empty inside,1
+1289,1,unknown,1,2024-05-17,2024-05-17,I feel empty inside,1
+1289,10,unknown,1,2024-09-29,2024-09-29,Life feels meaningless,1
+1289,11,unknown,1,2024-10-09,2024-10-09,I feel very sad and lonely,1
+1290,0,unknown,1,2024-01-31,2024-01-31,I feel very sad and lonely,1
+1290,6,unknown,0,2024-04-27,2024-04-27,I feel happy and motivated,1
+1290,7,unknown,0,2024-05-09,2024-05-09,I enjoyed spending time with friends,1
+1290,14,unknown,0,2024-08-23,2024-08-23,I had a great day today,1
+1290,16,unknown,1,2024-09-19,2024-09-19,I feel empty inside,1
+1291,0,unknown,1,2024-03-17,2024-03-17,I feel hopeless about my future,1
+1291,1,unknown,1,2024-04-11,2024-04-11,I have no motivation anymore,1
+1291,2,unknown,0,2024-04-14,2024-04-14,Today was a relaxing day,1
+1301,0,unknown,1,2024-08-19,2024-08-19,I feel empty inside,1
+1301,7,unknown,0,2024-11-28,2024-11-28,I love playing sports,1
+1304,0,unknown,0,2024-01-25,2024-01-25,I enjoyed spending time with friends,1
+1304,16,unknown,1,2024-09-18,2024-09-18,I have no motivation anymore,1
+1306,0,unknown,0,2024-07-08,2024-07-08,I enjoyed spending time with friends,1
+1306,4,unknown,0,2024-09-12,2024-09-12,I had a good conversation today,1
+1306,6,unknown,1,2024-10-06,2024-10-06,Life feels meaningless,1
+1307,0,unknown,1,2024-03-29,2024-04-02,I feel empty inside </s> Life feels meaningless,2
+1307,7,unknown,0,2024-07-16,2024-07-16,I am excited about tomorrow,1
+1307,19,unknown,0,2024-12-30,2024-12-30,I had a great day today,1
+1308,0,unknown,1,2024-04-04,2024-04-04,I can't find joy in anything,1
+1308,7,unknown,0,2024-07-24,2024-07-24,I am excited about tomorrow,1
+1308,11,unknown,1,2024-09-15,2024-09-15,I have no motivation anymore,1
+1308,13,unknown,1,2024-10-08,2024-10-08,I feel tired of everything,1
+1310,0,unknown,1,2024-03-01,2024-03-01,I feel tired of everything,1
+1310,2,unknown,0,2024-04-06,2024-04-06,I love playing sports,1
+1310,10,unknown,1,2024-07-25,2024-07-25,I can't find joy in anything,1
+1310,14,unknown,0,2024-09-20,2024-09-20,I had a great day today,1
+1310,16,unknown,0,2024-10-23,2024-10-23,I am excited about tomorrow,1
+1312,0,unknown,0,2024-02-26,2024-02-26,I watched a great movie today,1
+1312,3,unknown,0,2024-04-10,2024-04-10,Today was productive and fun,1
+1312,9,unknown,0,2024-07-02,2024-07-02,I enjoyed a nice walk outside,1
+1312,18,unknown,1,2024-11-09,2024-11-09,I feel empty inside,1
+1317,0,unknown,1,2024-07-21,2024-07-26,I have no motivation anymore </s> I feel tired of everything,2
+1317,1,unknown,1,2024-08-13,2024-08-13,I feel like nobody understands me,1
+1317,9,unknown,1,2024-12-06,2024-12-06,I feel very lonely these days,1
+1319,0,unknown,0,2024-02-29,2024-02-29,Today was productive and fun,1
+1319,0,unknown,1,2024-02-22,2024-02-22,I feel tired of everything,1
+1319,12,unknown,1,2024-08-18,2024-08-18,I feel very sad and lonely,1
+1319,13,unknown,0,2024-08-22,2024-08-28,I had a good conversation today </s> I love playing sports,2
+1319,13,unknown,1,2024-08-25,2024-08-25,Nothing makes me happy anymore,1
+1319,16,unknown,0,2024-10-09,2024-10-09,I am excited about tomorrow,1
+1319,18,unknown,0,2024-11-01,2024-11-01,I am excited about tomorrow,1
+1321,0,unknown,0,2024-02-28,2024-02-28,I had a great day today,1
+1321,0,unknown,1,2024-03-09,2024-03-09,I feel empty inside,1
+1321,6,unknown,0,2024-05-30,2024-05-30,Today was a relaxing day,1
+1321,12,unknown,1,2024-08-17,2024-08-17,I have no motivation anymore,1
+1321,21,unknown,1,2024-12-19,2024-12-19,I feel hopeless about my future,1
+1325,0,unknown,1,2024-01-29,2024-01-29,I have no motivation anymore,1
+1325,1,unknown,0,2024-02-24,2024-02-24,I love playing sports,1
+1325,3,unknown,0,2024-03-17,2024-03-17,I had a great day today,1
+1325,10,unknown,1,2024-06-28,2024-06-28,I feel hopeless about my future,1
+1325,12,unknown,0,2024-07-17,2024-07-17,Today was a relaxing day,1
+1334,0,unknown,1,2024-03-02,2024-03-02,I can't find joy in anything,1
+1334,9,unknown,1,2024-07-17,2024-07-17,I feel very sad and lonely,1
+1334,15,unknown,0,2024-10-02,2024-10-02,I enjoyed spending time with friends,1
+1344,0,unknown,1,2024-01-31,2024-01-31,I feel like nobody understands me,1
+1344,3,unknown,0,2024-03-25,2024-03-25,I love playing sports,1
+1344,9,unknown,0,2024-06-18,2024-06-18,I am excited about tomorrow,1
+1344,14,unknown,0,2024-08-15,2024-08-15,I love playing sports,1
+1344,14,unknown,1,2024-08-21,2024-08-21,I feel hopeless about my future,1
+1344,22,unknown,1,2024-12-17,2024-12-17,I feel empty inside,1
+1346,0,unknown,1,2024-02-02,2024-02-02,I feel very sad and lonely,1
+1346,4,unknown,0,2024-04-10,2024-04-10,I had a good conversation today,1
+1346,16,unknown,0,2024-09-23,2024-09-23,I enjoyed spending time with friends,1
+1346,18,unknown,1,2024-10-15,2024-10-15,I feel tired of everything,1
+1346,22,unknown,0,2024-12-16,2024-12-16,Today was a relaxing day,1
+1347,0,unknown,1,2024-05-30,2024-05-30,I feel very sad and lonely,1
+1347,2,unknown,1,2024-07-05,2024-07-05,I have no motivation anymore,1
+1347,3,unknown,1,2024-07-20,2024-07-20,I feel like nobody understands me,1
+1347,6,unknown,1,2024-08-29,2024-08-29,I feel empty inside,1
+1358,0,unknown,1,2024-01-05,2024-01-05,I feel like nobody understands me,1
+1358,1,unknown,0,2024-01-23,2024-01-23,I had a good conversation today,1
+1358,5,unknown,1,2024-03-21,2024-03-21,I can't find joy in anything,1
+1358,10,unknown,1,2024-05-25,2024-05-25,I feel like nobody understands me,1
+1360,0,unknown,0,2024-03-26,2024-03-26,I watched a great movie today,1
+1360,10,unknown,1,2024-08-21,2024-08-21,I have no motivation anymore,1
+1360,11,unknown,1,2024-08-30,2024-08-30,I feel tired of everything,1
+1362,0,unknown,1,2024-02-19,2024-02-19,Life feels meaningless,1
+1362,3,unknown,1,2024-04-03,2024-04-03,Nothing makes me happy anymore,1
+1362,5,unknown,0,2024-05-03,2024-05-03,I had a great day today,1
+1363,0,unknown,1,2024-06-08,2024-06-08,I feel like nobody understands me,1
+1363,6,unknown,0,2024-09-06,2024-09-06,I am excited about tomorrow,1
+1363,8,unknown,0,2024-10-07,2024-10-07,I feel happy and motivated,1
+1363,11,unknown,1,2024-11-15,2024-11-15,I have no motivation anymore,1
+1365,0,unknown,1,2024-01-02,2024-01-02,Life feels meaningless,1
+1365,4,unknown,1,2024-03-05,2024-03-05,I feel hopeless about my future,1
+1365,11,unknown,1,2024-06-15,2024-06-15,Nothing makes me happy anymore,1
+1365,12,unknown,0,2024-06-25,2024-06-25,I had a great day today,1
+1365,13,unknown,0,2024-07-06,2024-07-06,I watched a great movie today,1
+1365,20,unknown,1,2024-10-10,2024-10-10,I feel very sad and lonely,1
+1367,0,unknown,0,2024-01-21,2024-01-21,I had a good conversation today,1
+1367,0,unknown,1,2024-01-20,2024-01-20,I feel very lonely these days,1
+1367,1,unknown,1,2024-02-14,2024-02-14,I feel like nobody understands me,1
+1367,4,unknown,0,2024-03-18,2024-03-18,I am excited about tomorrow,1
+1367,6,unknown,1,2024-04-24,2024-04-24,I have no motivation anymore,1
+1367,7,unknown,0,2024-05-07,2024-05-07,Today was a relaxing day,1
+1367,12,unknown,1,2024-07-12,2024-07-12,I feel like nobody understands me,1
+1367,13,unknown,0,2024-08-01,2024-08-01,I am excited about tomorrow,1
+1367,24,unknown,1,2024-12-29,2024-12-29,I feel very sad and lonely,1
+1371,0,unknown,0,2024-02-20,2024-02-20,Today was productive and fun,1
+1371,4,unknown,0,2024-04-21,2024-04-21,Today was productive and fun,1
+1371,7,unknown,0,2024-06-05,2024-06-05,I had a good conversation today,1
+1371,8,unknown,1,2024-06-24,2024-06-24,I feel empty inside,1
+1371,16,unknown,0,2024-10-14,2024-10-14,I had a great day today,1
+1371,21,unknown,1,2024-12-20,2024-12-20,I feel very sad and lonely,1
+1379,0,unknown,1,2024-04-14,2024-04-14,Nothing makes me happy anymore,1
+1379,1,unknown,1,2024-05-08,2024-05-08,I have no motivation anymore,1
+1379,6,unknown,1,2024-07-17,2024-07-17,I feel very sad and lonely,1
+1382,0,unknown,0,2024-01-31,2024-01-31,I enjoyed a nice walk outside,1
+1382,4,unknown,0,2024-03-31,2024-03-31,I enjoyed spending time with friends,1
+1382,12,unknown,0,2024-07-20,2024-07-20,I enjoyed spending time with friends,1
+1382,15,unknown,1,2024-09-08,2024-09-08,I feel tired of everything,1
+1382,19,unknown,1,2024-11-03,2024-11-03,I have no motivation anymore,1
+1387,0,unknown,0,2024-06-19,2024-06-19,Today was productive and fun,1
+1387,1,unknown,0,2024-07-07,2024-07-07,I had a good conversation today,1
+1388,0,unknown,0,2024-01-27,2024-01-27,I enjoyed spending time with friends,1
+1388,0,unknown,1,2024-02-03,2024-02-03,I have no motivation anymore,1
+1388,6,unknown,0,2024-04-28,2024-04-28,I enjoyed spending time with friends,1
+1388,10,unknown,1,2024-06-18,2024-06-18,I feel very sad and lonely,1
+1388,11,unknown,1,2024-07-07,2024-07-07,I feel like nobody understands me,1
+1388,13,unknown,0,2024-08-07,2024-08-07,I am excited about tomorrow,1
+1388,15,unknown,1,2024-08-25,2024-08-25,I feel tired of everything,1
+1388,19,unknown,1,2024-10-26,2024-10-26,I feel tired of everything,1
+1388,20,unknown,0,2024-11-04,2024-11-04,I enjoyed a nice walk outside,1
+1388,21,unknown,0,2024-11-24,2024-11-24,I feel happy and motivated,1
+1389,0,unknown,1,2024-02-23,2024-02-23,Life feels meaningless,1
+1389,3,unknown,1,2024-04-10,2024-04-10,Life feels meaningless,1
+1389,17,unknown,1,2024-10-31,2024-10-31,Life feels meaningless,1
+1389,19,unknown,0,2024-11-22,2024-11-22,Today was a relaxing day,1
+1405,0,unknown,0,2024-04-01,2024-04-01,I had a good conversation today,1
+1405,6,unknown,0,2024-07-07,2024-07-07,I enjoyed a nice walk outside,1
+1405,7,unknown,1,2024-07-11,2024-07-11,I feel like nobody understands me,1
+1405,8,unknown,1,2024-07-30,2024-07-30,I feel very lonely these days,1
+1405,13,unknown,0,2024-10-04,2024-10-10,I had a great day today </s> Today was productive and fun,2
+1408,0,unknown,1,2024-05-01,2024-05-01,I feel very sad and lonely,1
+1408,9,unknown,1,2024-09-07,2024-09-07,Nothing makes me happy anymore,1
+1408,11,unknown,0,2024-10-11,2024-10-11,I am excited about tomorrow,1
+1409,0,unknown,1,2024-02-06,2024-02-06,I feel hopeless about my future,1
+1409,5,unknown,1,2024-04-19,2024-04-19,Life feels meaningless,1
+1409,6,unknown,0,2024-05-01,2024-05-01,I feel happy and motivated,1
+1409,11,unknown,1,2024-07-11,2024-07-11,I feel hopeless about my future,1
+1415,0,unknown,1,2024-02-18,2024-02-18,I feel like nobody understands me,1
+1415,9,unknown,0,2024-07-02,2024-07-02,I am excited about tomorrow,1
+1415,10,unknown,1,2024-07-09,2024-07-09,Life feels meaningless,1
+1415,11,unknown,1,2024-07-28,2024-07-28,Life feels meaningless,1
+1421,0,unknown,0,2024-02-12,2024-02-12,I love playing sports,1
+1421,0,unknown,1,2024-02-09,2024-02-09,Life feels meaningless,1
+1421,5,unknown,0,2024-04-20,2024-04-20,I had a great day today,1
+1421,9,unknown,1,2024-06-14,2024-06-14,I have no motivation anymore,1
+1421,14,unknown,0,2024-08-24,2024-08-24,I had a good conversation today,1
+1421,15,unknown,0,2024-09-10,2024-09-10,I enjoyed spending time with friends,1
+1421,21,unknown,1,2024-11-30,2024-11-30,I feel very sad and lonely,1
+1428,0,unknown,1,2024-03-15,2024-03-15,Nothing makes me happy anymore,1
+1428,3,unknown,0,2024-05-01,2024-05-01,I had a great day today,1
+1428,4,unknown,0,2024-05-17,2024-05-17,I had a good conversation today,1
+1428,9,unknown,1,2024-07-25,2024-07-25,I feel very lonely these days,1
+1428,11,unknown,1,2024-08-18,2024-08-18,Life feels meaningless,1
+1428,13,unknown,1,2024-09-20,2024-09-20,Life feels meaningless,1
+1428,15,unknown,1,2024-10-21,2024-10-21,I can't find joy in anything,1
+1428,17,unknown,1,2024-11-08,2024-11-08,I feel very lonely these days,1
+1428,18,unknown,1,2024-12-03,2024-12-03,I feel very lonely these days,1
+1431,0,unknown,0,2024-03-31,2024-03-31,I had a great day today,1
+1431,3,unknown,1,2024-05-20,2024-05-20,I feel empty inside,1
+1432,0,unknown,1,2024-03-11,2024-03-11,I can't find joy in anything,1
+1432,1,unknown,0,2024-04-04,2024-04-04,Today was a relaxing day,1
+1432,1,unknown,1,2024-04-07,2024-04-07,Nothing makes me happy anymore,1
+1432,4,unknown,0,2024-05-08,2024-05-08,I am excited about tomorrow,1
+1432,12,unknown,0,2024-09-04,2024-09-04,I watched a great movie today,1
+1432,12,unknown,1,2024-09-01,2024-09-01,I have no motivation anymore,1
+1438,0,unknown,1,2024-03-02,2024-03-02,I can't find joy in anything,1
+1438,10,unknown,1,2024-07-21,2024-07-21,I feel very lonely these days,1
+1438,11,unknown,0,2024-08-09,2024-08-09,I am excited about tomorrow,1
+1438,15,unknown,1,2024-09-29,2024-09-29,I feel tired of everything,1
+1438,18,unknown,1,2024-11-10,2024-11-10,I feel tired of everything,1
+1447,0,unknown,1,2024-02-03,2024-02-03,I feel very sad and lonely,1
+1447,6,unknown,1,2024-05-04,2024-05-04,I have no motivation anymore,1
+1447,9,unknown,1,2024-06-21,2024-06-21,I feel empty inside,1
+1451,0,unknown,1,2024-04-10,2024-04-10,I can't find joy in anything,1
+1451,8,unknown,0,2024-08-04,2024-08-04,I enjoyed a nice walk outside,1
+1451,11,unknown,0,2024-09-21,2024-09-21,I had a good conversation today,1
+1451,12,unknown,0,2024-09-30,2024-09-30,Today was productive and fun,1
+1461,0,unknown,0,2024-07-03,2024-07-03,I feel happy and motivated,1
+1461,0,unknown,1,2024-07-01,2024-07-01,Nothing makes me happy anymore,1
+1461,3,unknown,0,2024-08-18,2024-08-18,I enjoyed spending time with friends,1
+1461,11,unknown,1,2024-12-03,2024-12-03,I feel empty inside,1
+1461,12,unknown,0,2024-12-26,2024-12-26,I had a great day today,1
+1473,0,unknown,0,2024-03-10,2024-03-10,I am excited about tomorrow,1
+1473,8,unknown,0,2024-07-12,2024-07-12,Today was productive and fun,1
+1473,8,unknown,1,2024-07-06,2024-07-06,I feel very lonely these days,1
+1473,13,unknown,0,2024-09-18,2024-09-18,Today was a relaxing day,1
+1475,0,unknown,1,2024-01-28,2024-01-28,Nothing makes me happy anymore </s> I can't find joy in anything,2
+1475,11,unknown,1,2024-06-30,2024-06-30,I feel very lonely these days,1
+1475,16,unknown,1,2024-09-20,2024-09-20,I feel empty inside,1
+1475,17,unknown,1,2024-09-30,2024-09-30,I have no motivation anymore,1
+1475,18,unknown,1,2024-10-10,2024-10-10,I feel like nobody understands me,1
+1480,0,unknown,0,2024-06-22,2024-06-22,I enjoyed spending time with friends,1
+1480,0,unknown,1,2024-06-21,2024-07-04,I feel like nobody understands me </s> Life feels meaningless,2
+1480,7,unknown,0,2024-10-06,2024-10-06,I enjoyed spending time with friends,1
+1480,7,unknown,1,2024-10-07,2024-10-07,I feel like nobody understands me,1
+1480,8,unknown,1,2024-10-19,2024-10-19,I feel like nobody understands me,1
+1480,13,unknown,0,2024-12-31,2024-12-31,I had a great day today,1
+1491,0,unknown,1,2024-01-27,2024-01-27,I feel tired of everything,1
+1491,10,unknown,0,2024-06-21,2024-06-21,I feel happy and motivated,1
+1491,19,unknown,0,2024-10-23,2024-10-23,I had a good conversation today,1
+1492,0,unknown,1,2024-01-21,2024-01-21,Nothing makes me happy anymore,1
+1492,1,unknown,1,2024-02-12,2024-02-12,I feel very lonely these days,1
+1492,17,unknown,1,2024-09-19,2024-09-19,I feel very sad and lonely,1
+1492,24,unknown,1,2024-12-24,2024-12-24,I have no motivation anymore,1
+1494,0,unknown,0,2024-04-11,2024-04-11,I had a great day today,1
+1501,0,unknown,1,2024-04-16,2024-04-16,I have no motivation anymore,1
+1501,2,unknown,1,2024-05-15,2024-05-15,I feel very sad and lonely,1
+1501,4,unknown,0,2024-06-22,2024-06-22,I enjoyed a nice walk outside,1
+1501,13,unknown,1,2024-10-22,2024-10-22,Life feels meaningless,1
+1510,0,unknown,1,2024-01-20,2024-01-20,I can't find joy in anything,1
+1510,3,unknown,1,2024-03-12,2024-03-12,Life feels meaningless,1
+1510,13,unknown,1,2024-07-23,2024-07-23,I have no motivation anymore,1
+1511,0,unknown,0,2024-01-11,2024-01-11,Today was a relaxing day,1
+1511,18,unknown,1,2024-09-30,2024-09-30,I feel tired of everything,1
+1511,21,unknown,1,2024-11-02,2024-11-02,I feel very lonely these days,1
+1511,23,unknown,0,2024-12-04,2024-12-04,I enjoyed a nice walk outside,1
+1520,0,unknown,0,2024-01-30,2024-02-08,I feel happy and motivated </s> I love playing sports,2
+1520,5,unknown,1,2024-04-15,2024-04-15,I feel like nobody understands me,1
+1520,10,unknown,1,2024-06-18,2024-06-18,I have no motivation anymore,1
+1520,18,unknown,1,2024-10-18,2024-10-18,I have no motivation anymore,1
+1520,23,unknown,1,2024-12-23,2024-12-23,Nothing makes me happy anymore,1
+1529,0,unknown,0,2024-01-11,2024-01-18,I had a good conversation today </s> Today was a relaxing day,2
+1529,0,unknown,1,2024-01-22,2024-01-22,I have no motivation anymore,1
+1529,3,unknown,0,2024-02-28,2024-02-28,Today was productive and fun,1
+1529,5,unknown,0,2024-03-25,2024-03-25,Today was productive and fun,1
+1529,16,unknown,1,2024-09-01,2024-09-01,I feel tired of everything,1
+1535,0,unknown,1,2024-03-15,2024-03-15,I feel tired of everything,1
+1535,3,unknown,1,2024-05-02,2024-05-02,I feel hopeless about my future,1
+1535,7,unknown,1,2024-06-22,2024-06-22,I have no motivation anymore,1
+1535,18,unknown,1,2024-11-24,2024-11-24,I feel hopeless about my future,1
+1535,19,unknown,0,2024-12-08,2024-12-08,Today was productive and fun,1
+1536,0,unknown,1,2024-05-16,2024-05-16,I feel empty inside,1
+1536,8,unknown,0,2024-09-10,2024-09-16,I am excited about tomorrow </s> I watched a great movie today,2
+1536,9,unknown,1,2024-09-23,2024-09-23,I feel empty inside,1
+1547,0,unknown,0,2024-03-20,2024-03-20,Today was a relaxing day,1
+1547,1,unknown,0,2024-04-09,2024-04-09,I enjoyed a nice walk outside,1
+1547,14,unknown,0,2024-10-07,2024-10-07,I am excited about tomorrow,1
+1549,0,unknown,1,2024-04-13,2024-04-13,I can't find joy in anything,1
+1549,4,unknown,0,2024-06-14,2024-06-14,Today was a relaxing day,1
+1549,8,unknown,0,2024-08-06,2024-08-06,I love playing sports,1
+1549,11,unknown,0,2024-09-14,2024-09-14,Today was a relaxing day,1
+1549,15,unknown,1,2024-11-16,2024-11-16,Life feels meaningless,1
+1553,0,unknown,0,2024-04-28,2024-04-28,Today was a relaxing day,1
+1553,6,unknown,1,2024-07-22,2024-07-22,I feel hopeless about my future,1
+1553,9,unknown,0,2024-09-03,2024-09-03,I had a great day today,1
+1553,12,unknown,1,2024-10-13,2024-10-13,I feel like nobody understands me,1
+1557,0,unknown,1,2024-06-14,2024-06-14,I feel hopeless about my future,1
+1557,10,unknown,0,2024-11-04,2024-11-04,I had a good conversation today,1
+1562,0,unknown,0,2024-03-28,2024-03-28,I had a good conversation today,1
+1562,15,unknown,1,2024-10-29,2024-10-29,I feel tired of everything,1
+1565,0,unknown,0,2024-01-15,2024-01-15,I watched a great movie today,1
+1565,6,unknown,1,2024-04-11,2024-04-11,Life feels meaningless,1
+1565,23,unknown,1,2024-12-11,2024-12-15,I feel like nobody understands me </s> I feel hopeless about my future,2
+1565,25,unknown,1,2024-12-30,2024-12-30,Nothing makes me happy anymore,1
+1566,0,unknown,1,2024-02-03,2024-02-03,Life feels meaningless,1
+1566,3,unknown,0,2024-03-17,2024-03-17,I feel happy and motivated,1
+1566,13,unknown,1,2024-08-11,2024-08-14,I feel like nobody understands me </s> I feel very lonely these days,2
+1566,14,unknown,0,2024-08-26,2024-08-26,I had a great day today,1
+1566,18,unknown,0,2024-10-14,2024-10-14,I enjoyed spending time with friends,1
+1566,18,unknown,1,2024-10-23,2024-10-23,I feel very lonely these days,1
+1566,19,unknown,1,2024-11-02,2024-11-02,Nothing makes me happy anymore,1
+1567,0,unknown,0,2024-03-15,2024-03-28,I enjoyed spending time with friends </s> I feel happy and motivated,2
+1567,7,unknown,0,2024-06-30,2024-06-30,Today was productive and fun,1
+1567,8,unknown,1,2024-07-06,2024-07-06,I feel like nobody understands me,1
+1567,16,unknown,1,2024-11-03,2024-11-03,I feel very lonely these days,1
+1568,0,unknown,0,2024-04-17,2024-04-17,I had a good conversation today,1
+1568,3,unknown,0,2024-06-11,2024-06-11,I had a good conversation today,1
+1568,3,unknown,1,2024-06-09,2024-06-09,Nothing makes me happy anymore,1
+1568,5,unknown,0,2024-07-02,2024-07-02,I love playing sports,1
+1573,0,unknown,0,2024-08-13,2024-08-13,I love playing sports,1
+1573,0,unknown,1,2024-08-11,2024-08-11,I feel like nobody understands me,1
+1573,3,unknown,0,2024-10-04,2024-10-04,I enjoyed spending time with friends,1
+1573,3,unknown,1,2024-09-28,2024-09-28,Nothing makes me happy anymore,1
+1578,0,unknown,1,2024-03-09,2024-03-09,I feel like nobody understands me,1
+1578,3,unknown,0,2024-05-01,2024-05-01,I enjoyed spending time with friends,1
+1578,15,unknown,0,2024-10-16,2024-10-16,I enjoyed a nice walk outside,1
+1578,15,unknown,1,2024-10-09,2024-10-09,I feel tired of everything,1
+1579,0,unknown,0,2024-03-01,2024-03-01,I had a good conversation today,1
+1579,0,unknown,1,2024-03-08,2024-03-08,I feel empty inside,1
+1579,9,unknown,1,2024-07-12,2024-07-12,I feel tired of everything,1
+1579,17,unknown,1,2024-10-29,2024-10-29,I feel very sad and lonely,1
+1579,21,unknown,0,2024-12-28,2024-12-28,Today was productive and fun,1
+1592,0,unknown,1,2024-02-16,2024-02-16,Life feels meaningless,1
+1592,3,unknown,1,2024-03-31,2024-03-31,I feel hopeless about my future,1
+1592,5,unknown,1,2024-04-27,2024-04-27,I feel tired of everything,1
+1592,6,unknown,1,2024-05-19,2024-05-19,Life feels meaningless,1
+1592,12,unknown,1,2024-08-12,2024-08-12,I feel very lonely these days,1
+1592,15,unknown,1,2024-09-14,2024-09-14,I have no motivation anymore,1
+1592,17,unknown,0,2024-10-17,2024-10-17,I feel happy and motivated,1
+1592,20,unknown,0,2024-11-27,2024-11-27,Today was a relaxing day,1
+1593,0,unknown,0,2024-01-07,2024-01-07,I am excited about tomorrow,1
+1593,4,unknown,0,2024-03-14,2024-03-14,I had a good conversation today,1
+1593,5,unknown,0,2024-03-23,2024-03-23,I enjoyed a nice walk outside,1
+1593,6,unknown,1,2024-04-12,2024-04-12,I feel tired of everything,1
+1593,8,unknown,1,2024-05-10,2024-05-10,I feel hopeless about my future,1
+1593,16,unknown,1,2024-08-29,2024-08-29,I feel like nobody understands me,1
+1593,18,unknown,0,2024-09-28,2024-09-28,I enjoyed spending time with friends,1
+1598,0,unknown,0,2024-09-04,2024-09-04,I had a great day today </s> I had a great day today,2
+1599,0,unknown,1,2024-02-16,2024-02-16,I feel empty inside,1
+1599,4,unknown,0,2024-04-12,2024-04-12,I enjoyed spending time with friends,1
+1599,12,unknown,0,2024-08-08,2024-08-08,I enjoyed a nice walk outside,1
+1599,15,unknown,1,2024-09-18,2024-09-18,I feel very sad and lonely,1
+1605,0,unknown,1,2024-04-29,2024-04-29,I feel tired of everything,1
+1605,1,unknown,0,2024-05-16,2024-05-16,I had a good conversation today,1
+1605,6,unknown,0,2024-07-22,2024-07-22,I had a great day today,1
+1605,9,unknown,0,2024-09-15,2024-09-15,I had a great day today,1
+1605,11,unknown,0,2024-10-09,2024-10-09,I love playing sports,1
+1605,12,unknown,0,2024-10-27,2024-10-27,I love playing sports,1
+1605,17,unknown,0,2024-12-26,2024-12-26,Today was productive and fun,1
+1609,0,unknown,0,2024-07-21,2024-07-27,I had a good conversation today </s> I am excited about tomorrow,2
+1609,5,unknown,1,2024-10-07,2024-10-07,I can't find joy in anything,1
+1609,7,unknown,0,2024-10-27,2024-10-27,I enjoyed spending time with friends,1
+1610,0,unknown,1,2024-01-19,2024-01-19,I feel very lonely these days,1
+1610,3,unknown,0,2024-03-12,2024-03-12,Today was a relaxing day,1
+1610,4,unknown,1,2024-03-28,2024-03-28,I feel tired of everything,1
+1610,6,unknown,0,2024-04-23,2024-04-23,Today was productive and fun,1
+1610,7,unknown,1,2024-05-07,2024-05-07,I have no motivation anymore,1
+1610,10,unknown,1,2024-06-16,2024-06-16,Nothing makes me happy anymore,1
+1610,15,unknown,1,2024-08-17,2024-08-17,I feel very lonely these days,1
+1610,17,unknown,0,2024-09-19,2024-09-19,I feel happy and motivated,1
+1610,18,unknown,0,2024-09-30,2024-09-30,I had a great day today,1
+1610,20,unknown,1,2024-11-07,2024-11-07,I have no motivation anymore,1
+1617,0,unknown,1,2024-02-04,2024-02-04,Nothing makes me happy anymore,1
+1617,13,unknown,0,2024-08-17,2024-08-17,I love playing sports </s> I watched a great movie today,2
+1621,0,unknown,0,2024-01-06,2024-01-06,I had a great day today,1
+1621,1,unknown,1,2024-01-27,2024-01-27,I feel hopeless about my future,1
+1621,2,unknown,1,2024-02-06,2024-02-06,Nothing makes me happy anymore,1
+1621,3,unknown,0,2024-02-17,2024-02-17,Today was productive and fun,1
+1621,6,unknown,1,2024-04-01,2024-04-01,I feel very sad and lonely,1
+1621,12,unknown,0,2024-07-01,2024-07-01,I watched a great movie today,1
+1624,0,unknown,0,2024-01-30,2024-01-30,I am excited about tomorrow,1
+1624,2,unknown,0,2024-02-29,2024-02-29,Today was a relaxing day,1
+1624,13,unknown,0,2024-08-09,2024-08-09,Today was productive and fun,1
+1624,16,unknown,0,2024-09-19,2024-09-19,I enjoyed spending time with friends,1
+1624,23,unknown,0,2024-12-19,2024-12-19,I am excited about tomorrow,1
+1628,0,unknown,1,2024-03-10,2024-03-10,I feel very sad and lonely,1
+1628,2,unknown,1,2024-04-19,2024-04-19,I feel very sad and lonely,1
+1628,4,unknown,0,2024-05-09,2024-05-09,I had a good conversation today,1
+1628,6,unknown,0,2024-06-15,2024-06-15,Today was productive and fun,1
+1628,9,unknown,1,2024-07-22,2024-07-22,I feel very sad and lonely,1
+1628,10,unknown,1,2024-08-06,2024-08-06,I feel empty inside,1
+1628,11,unknown,1,2024-08-24,2024-08-24,I can't find joy in anything,1
+1628,12,unknown,1,2024-09-07,2024-09-07,I have no motivation anymore,1
+1634,0,unknown,1,2024-05-19,2024-05-19,I have no motivation anymore,1
+1640,0,unknown,0,2024-01-27,2024-01-27,I love playing sports,1
+1640,6,unknown,1,2024-04-29,2024-04-29,I can't find joy in anything,1
+1640,9,unknown,0,2024-06-07,2024-06-07,I enjoyed a nice walk outside,1
+1640,13,unknown,0,2024-08-02,2024-08-02,I feel happy and motivated,1
+1646,0,unknown,0,2024-01-13,2024-01-13,Today was productive and fun,1
+1646,20,unknown,1,2024-10-31,2024-10-31,I have no motivation anymore,1
+1646,24,unknown,1,2024-12-24,2024-12-24,Nothing makes me happy anymore,1
+1652,0,unknown,0,2024-01-04,2024-01-04,I enjoyed a nice walk outside,1
+1652,3,unknown,0,2024-02-17,2024-02-17,I am excited about tomorrow,1
+1652,6,unknown,1,2024-04-10,2024-04-10,I feel like nobody understands me,1
+1652,9,unknown,1,2024-05-20,2024-05-20,I feel tired of everything,1
+1652,13,unknown,1,2024-07-14,2024-07-14,I feel hopeless about my future,1
+1652,15,unknown,0,2024-08-09,2024-08-09,I love playing sports,1
+1652,15,unknown,1,2024-08-08,2024-08-08,Nothing makes me happy anymore,1
+1652,21,unknown,1,2024-10-31,2024-10-31,Nothing makes me happy anymore,1
+1652,24,unknown,0,2024-12-14,2024-12-14,I had a good conversation today,1
+1654,0,unknown,1,2024-04-11,2024-04-11,I feel tired of everything,1
+1654,2,unknown,1,2024-05-19,2024-05-19,I feel empty inside,1
+1654,6,unknown,1,2024-07-17,2024-07-17,Life feels meaningless,1
+1654,13,unknown,0,2024-10-17,2024-10-17,I watched a great movie today,1
+1654,15,unknown,1,2024-11-10,2024-11-10,Life feels meaningless,1
+1654,18,unknown,1,2024-12-28,2024-12-28,I feel empty inside,1
+1658,0,unknown,0,2024-01-02,2024-01-13,I had a good conversation today </s> I had a good conversation today,2
+1658,3,unknown,0,2024-02-19,2024-02-19,I love playing sports,1
+1658,9,unknown,0,2024-05-12,2024-05-12,I enjoyed spending time with friends,1
+1658,19,unknown,1,2024-10-05,2024-10-05,I feel very lonely these days,1
+1658,21,unknown,1,2024-10-24,2024-10-24,I feel very lonely these days,1
+1658,24,unknown,1,2024-12-09,2024-12-09,I feel very sad and lonely,1
+1664,0,unknown,1,2024-05-05,2024-05-05,I feel very sad and lonely,1
+1664,13,unknown,0,2024-11-04,2024-11-04,I am excited about tomorrow,1
+1669,0,unknown,0,2024-02-25,2024-02-25,I love playing sports,1
+1669,0,unknown,1,2024-02-18,2024-02-18,I have no motivation anymore,1
+1673,0,unknown,0,2024-03-07,2024-03-07,I enjoyed a nice walk outside,1
+1673,4,unknown,0,2024-05-09,2024-05-09,I watched a great movie today,1
+1673,5,unknown,0,2024-05-20,2024-05-20,I feel happy and motivated,1
+1673,9,unknown,0,2024-07-11,2024-07-11,I had a great day today,1
+1673,13,unknown,1,2024-09-16,2024-09-16,I feel very sad and lonely,1
+1676,0,unknown,0,2024-02-12,2024-02-12,I watched a great movie today,1
+1676,0,unknown,1,2024-01-31,2024-01-31,Nothing makes me happy anymore,1
+1676,1,unknown,1,2024-02-14,2024-02-14,I feel hopeless about my future,1
+1676,7,unknown,0,2024-05-14,2024-05-14,I love playing sports,1
+1676,10,unknown,1,2024-06-30,2024-06-30,Nothing makes me happy anymore,1
+1676,11,unknown,0,2024-07-16,2024-07-16,I love playing sports,1
+1676,14,unknown,0,2024-08-27,2024-08-27,I enjoyed a nice walk outside,1
+1676,20,unknown,1,2024-11-14,2024-11-14,Nothing makes me happy anymore,1
+1678,0,unknown,0,2024-08-21,2024-08-21,Today was productive and fun,1
+1678,2,unknown,0,2024-09-23,2024-09-23,I enjoyed a nice walk outside,1
+1678,3,unknown,1,2024-10-13,2024-10-13,I feel tired of everything,1
+1678,6,unknown,0,2024-11-20,2024-11-20,Today was a relaxing day,1
+1680,0,unknown,0,2024-02-10,2024-02-10,I had a great day today,1
+1680,3,unknown,0,2024-03-26,2024-03-26,Today was productive and fun,1
+1680,7,unknown,0,2024-05-30,2024-05-30,Today was a relaxing day,1
+1680,8,unknown,0,2024-06-09,2024-06-09,I enjoyed a nice walk outside,1
+1686,0,unknown,1,2024-02-20,2024-03-04,I feel like nobody understands me </s> I feel tired of everything,2
+1686,3,unknown,1,2024-04-08,2024-04-08,I can't find joy in anything,1
+1686,16,unknown,1,2024-10-12,2024-10-12,Life feels meaningless,1
+1687,0,unknown,0,2024-01-22,2024-01-22,I had a great day today,1
+1687,5,unknown,1,2024-04-13,2024-04-13,I feel tired of everything,1
+1687,6,unknown,1,2024-04-24,2024-04-24,I feel very sad and lonely,1
+1687,7,unknown,1,2024-05-10,2024-05-10,I feel very sad and lonely,1
+1687,14,unknown,1,2024-08-16,2024-08-16,I feel tired of everything,1
+1687,17,unknown,0,2024-09-16,2024-09-16,I had a great day today,1
+1687,19,unknown,0,2024-10-27,2024-10-27,I enjoyed a nice walk outside,1
+1687,23,unknown,0,2024-12-10,2024-12-10,Today was productive and fun,1
+1689,0,unknown,0,2024-01-19,2024-01-19,Today was productive and fun,1
+1689,0,unknown,1,2024-01-06,2024-01-06,I feel very sad and lonely,1
+1689,9,unknown,1,2024-05-21,2024-05-21,I feel very sad and lonely,1
+1689,11,unknown,0,2024-06-16,2024-06-16,I love playing sports,1
+1689,14,unknown,0,2024-07-23,2024-07-23,I feel happy and motivated,1
+1689,17,unknown,0,2024-09-12,2024-09-12,I enjoyed spending time with friends,1
+1689,21,unknown,0,2024-10-27,2024-10-27,I am excited about tomorrow,1
+1689,24,unknown,1,2024-12-20,2024-12-20,I feel very lonely these days,1
+1691,0,unknown,1,2024-02-02,2024-02-02,Life feels meaningless,1
+1691,1,unknown,0,2024-02-24,2024-02-24,I watched a great movie today,1
+1691,10,unknown,1,2024-06-28,2024-06-28,Life feels meaningless,1
+1691,11,unknown,0,2024-07-09,2024-07-09,I feel happy and motivated,1
+1691,13,unknown,1,2024-08-08,2024-08-08,I feel very lonely these days,1
+1691,14,unknown,1,2024-08-29,2024-08-29,I feel empty inside,1
+1691,22,unknown,1,2024-12-15,2024-12-15,I feel empty inside,1
+1713,0,unknown,0,2024-07-25,2024-07-25,Today was a relaxing day,1
+1713,0,unknown,1,2024-07-19,2024-07-19,I feel hopeless about my future,1
+1713,2,unknown,1,2024-08-20,2024-08-20,Nothing makes me happy anymore,1
+1713,5,unknown,1,2024-10-01,2024-10-01,I feel very sad and lonely,1
+1721,0,unknown,0,2024-01-27,2024-01-27,Today was a relaxing day,1
+1721,3,unknown,0,2024-03-10,2024-03-10,Today was a relaxing day,1
+1721,23,unknown,0,2024-12-23,2024-12-23,I had a good conversation today,1
+1721,23,unknown,1,2024-12-17,2024-12-17,I feel empty inside,1
+1725,0,unknown,0,2024-02-17,2024-02-17,I love playing sports,1
+1725,3,unknown,0,2024-04-05,2024-04-05,I enjoyed a nice walk outside,1
+1725,8,unknown,1,2024-06-21,2024-06-21,Nothing makes me happy anymore,1
+1725,12,unknown,0,2024-08-05,2024-08-05,I had a great day today,1
+1725,16,unknown,0,2024-09-29,2024-09-29,I enjoyed a nice walk outside,1
+1725,17,unknown,0,2024-10-17,2024-10-17,I enjoyed a nice walk outside,1
+1731,0,unknown,1,2024-01-05,2024-01-05,I feel very sad and lonely,1
+1731,2,unknown,1,2024-02-08,2024-02-08,Life feels meaningless,1
+1737,0,unknown,0,2024-01-13,2024-01-13,I enjoyed a nice walk outside,1
+1737,4,unknown,0,2024-03-21,2024-03-21,I feel happy and motivated,1
+1737,10,unknown,0,2024-06-04,2024-06-04,I enjoyed spending time with friends,1
+1737,24,unknown,0,2024-12-20,2024-12-20,I had a great day today,1
+1739,0,unknown,1,2024-02-11,2024-02-11,I feel hopeless about my future,1
+1739,5,unknown,0,2024-05-02,2024-05-02,Today was productive and fun,1
+1739,12,unknown,0,2024-07-28,2024-07-28,I enjoyed spending time with friends,1
+1739,18,unknown,0,2024-10-29,2024-10-29,I enjoyed a nice walk outside,1
+1741,0,unknown,0,2024-03-02,2024-03-02,Today was a relaxing day,1
+1741,5,unknown,0,2024-05-22,2024-05-22,Today was a relaxing day,1
+1741,12,unknown,0,2024-08-28,2024-08-28,I had a good conversation today,1
+1745,0,unknown,1,2024-02-16,2024-02-16,I feel very lonely these days,1
+1745,9,unknown,0,2024-06-21,2024-06-21,I had a great day today,1
+1745,9,unknown,1,2024-06-28,2024-06-28,I can't find joy in anything,1
+1745,10,unknown,1,2024-07-13,2024-07-13,I feel like nobody understands me,1
+1745,17,unknown,0,2024-10-14,2024-10-14,I am excited about tomorrow,1
+1761,0,unknown,0,2024-03-01,2024-03-01,I had a great day today,1
+1763,0,unknown,1,2024-02-06,2024-02-06,I feel very lonely these days,1
+1763,1,unknown,0,2024-02-29,2024-02-29,Today was productive and fun,1
+1763,12,unknown,1,2024-08-02,2024-08-02,Life feels meaningless,1
+1763,13,unknown,1,2024-08-09,2024-08-09,I feel empty inside,1
+1769,0,unknown,0,2024-02-15,2024-02-15,I feel happy and motivated,1
+1769,2,unknown,0,2024-03-25,2024-03-25,Today was productive and fun,1
+1769,7,unknown,1,2024-06-04,2024-06-04,I feel empty inside,1
+1769,10,unknown,0,2024-07-12,2024-07-12,I am excited about tomorrow,1
+1769,13,unknown,0,2024-08-23,2024-08-23,Today was productive and fun,1
+1769,17,unknown,0,2024-10-18,2024-10-18,I had a good conversation today,1
+1769,18,unknown,1,2024-10-24,2024-10-24,I feel very sad and lonely,1
+1775,0,unknown,0,2024-08-09,2024-08-09,Today was a relaxing day,1
+1775,4,unknown,0,2024-10-12,2024-10-12,Today was productive and fun,1
+1775,5,unknown,1,2024-10-22,2024-10-22,I feel very lonely these days,1
+1783,0,unknown,0,2024-01-16,2024-01-16,I feel happy and motivated,1
+1783,1,unknown,0,2024-02-03,2024-02-03,I am excited about tomorrow,1
+1783,11,unknown,1,2024-06-20,2024-06-20,I feel very lonely these days,1
+1783,12,unknown,0,2024-07-10,2024-07-10,I had a good conversation today,1
+1783,15,unknown,0,2024-08-23,2024-08-23,Today was productive and fun,1
+1783,17,unknown,0,2024-09-11,2024-09-11,I feel happy and motivated,1
+1783,18,unknown,0,2024-10-07,2024-10-07,I feel happy and motivated,1
+1783,23,unknown,1,2024-12-11,2024-12-11,I feel empty inside,1
+1784,0,unknown,0,2024-03-08,2024-03-10,Today was a relaxing day </s> I love playing sports </s> I feel happy and motivated,3
+1784,6,unknown,0,2024-06-08,2024-06-08,I love playing sports,1
+1784,12,unknown,1,2024-09-04,2024-09-04,I feel very lonely these days,1
+1784,18,unknown,1,2024-11-15,2024-11-21,I feel like nobody understands me </s> Nothing makes me happy anymore,2
+1789,0,unknown,0,2024-05-05,2024-05-05,I enjoyed a nice walk outside,1
+1789,1,unknown,1,2024-05-30,2024-05-30,I feel very lonely these days,1
+1789,2,unknown,0,2024-06-10,2024-06-10,I feel happy and motivated,1
+1789,4,unknown,1,2024-07-05,2024-07-07,I feel like nobody understands me </s> Nothing makes me happy anymore,2
+1789,5,unknown,0,2024-07-25,2024-07-25,Today was productive and fun,1
+1789,7,unknown,0,2024-08-18,2024-08-18,I love playing sports,1
+1789,10,unknown,1,2024-09-24,2024-09-24,I feel hopeless about my future,1
+1798,0,unknown,1,2024-03-20,2024-03-20,I feel tired of everything,1
+1798,4,unknown,1,2024-05-16,2024-05-16,I feel hopeless about my future,1
+1799,0,unknown,1,2024-01-04,2024-01-04,I have no motivation anymore,1
+1799,1,unknown,1,2024-01-31,2024-01-31,Life feels meaningless,1
+1799,2,unknown,1,2024-02-03,2024-02-03,I can't find joy in anything,1
+1799,6,unknown,0,2024-03-28,2024-03-31,I had a good conversation today </s> I watched a great movie today,2
+1799,9,unknown,0,2024-05-09,2024-05-09,Today was productive and fun,1
+1799,9,unknown,1,2024-05-18,2024-05-18,I feel hopeless about my future,1
+1799,14,unknown,1,2024-07-29,2024-07-29,Life feels meaningless,1
+1799,21,unknown,1,2024-10-31,2024-10-31,I feel empty inside,1
+1799,25,unknown,0,2024-12-19,2024-12-19,I love playing sports,1
+1815,0,unknown,1,2024-03-24,2024-03-24,I feel tired of everything,1
+1815,4,unknown,0,2024-05-25,2024-05-25,I enjoyed a nice walk outside,1
+1815,15,unknown,1,2024-10-22,2024-10-22,I feel hopeless about my future,1
+1818,0,unknown,1,2024-04-21,2024-04-21,I feel tired of everything,1
+1818,1,unknown,0,2024-05-16,2024-05-16,I watched a great movie today,1
+1818,2,unknown,0,2024-05-28,2024-05-28,I love playing sports,1
+1818,4,unknown,1,2024-06-23,2024-06-23,Life feels meaningless,1
+1818,9,unknown,1,2024-08-30,2024-08-30,I have no motivation anymore,1
+1818,10,unknown,0,2024-09-09,2024-09-14,I watched a great movie today </s> I am excited about tomorrow,2
+1818,13,unknown,1,2024-10-20,2024-10-20,I feel like nobody understands me,1
+1818,17,unknown,1,2024-12-20,2024-12-20,I feel empty inside,1
+1819,0,unknown,1,2024-02-25,2024-02-25,I can't find joy in anything,1
+1819,2,unknown,0,2024-03-25,2024-03-25,I am excited about tomorrow,1
+1819,17,unknown,0,2024-10-29,2024-10-29,I feel happy and motivated,1
+1819,19,unknown,1,2024-11-24,2024-11-24,Life feels meaningless,1
+1821,0,unknown,0,2024-05-02,2024-05-02,I watched a great movie today,1
+1821,1,unknown,0,2024-05-19,2024-05-19,Today was a relaxing day,1
+1821,8,unknown,0,2024-08-23,2024-08-23,Today was productive and fun,1
+1825,0,unknown,0,2024-01-17,2024-01-17,I love playing sports,1
+1825,0,unknown,1,2024-01-17,2024-01-17,I can't find joy in anything,1
+1825,4,unknown,1,2024-03-19,2024-03-19,Life feels meaningless,1
+1825,5,unknown,1,2024-04-07,2024-04-07,I feel very sad and lonely,1
+1825,12,unknown,1,2024-07-15,2024-07-15,I feel tired of everything,1
+1825,14,unknown,0,2024-08-02,2024-08-02,I enjoyed a nice walk outside,1
+1825,23,unknown,1,2024-12-06,2024-12-06,I feel like nobody understands me,1
+1838,0,unknown,0,2024-01-18,2024-01-19,Today was productive and fun </s> I had a good conversation today,2
+1838,4,unknown,0,2024-03-26,2024-03-26,I am excited about tomorrow,1
+1838,7,unknown,1,2024-05-02,2024-05-02,I feel like nobody understands me,1
+1838,8,unknown,1,2024-05-17,2024-05-17,I feel very lonely these days,1
+1838,10,unknown,1,2024-06-14,2024-06-14,I feel like nobody understands me,1
+1838,11,unknown,1,2024-07-01,2024-07-01,I feel empty inside,1
+1838,13,unknown,0,2024-07-28,2024-07-28,Today was productive and fun,1
+1838,14,unknown,0,2024-08-04,2024-08-04,I am excited about tomorrow,1
+1838,23,unknown,1,2024-12-06,2024-12-06,I feel very sad and lonely,1
+1838,24,unknown,0,2024-12-31,2024-12-31,Today was productive and fun,1
+1838,24,unknown,1,2024-12-25,2024-12-25,I feel tired of everything,1
+1852,0,unknown,0,2024-01-10,2024-01-10,I had a great day today,1
+1852,2,unknown,1,2024-02-15,2024-02-15,Life feels meaningless,1
+1852,9,unknown,0,2024-05-28,2024-05-28,I enjoyed spending time with friends,1
+1852,9,unknown,1,2024-05-18,2024-05-18,I feel very sad and lonely,1
+1852,13,unknown,0,2024-07-21,2024-07-21,I had a good conversation today,1
+1852,20,unknown,0,2024-10-29,2024-10-29,Today was productive and fun,1
+1852,24,unknown,0,2024-12-19,2024-12-19,I love playing sports,1
+1852,25,unknown,1,2024-12-30,2024-12-30,I can't find joy in anything,1
+1860,0,unknown,1,2024-01-10,2024-01-10,I have no motivation anymore,1
+1860,1,unknown,0,2024-01-26,2024-02-04,I feel happy and motivated </s> I am excited about tomorrow,2
+1860,8,unknown,1,2024-05-07,2024-05-07,I feel very sad and lonely,1
+1860,13,unknown,0,2024-07-10,2024-07-10,Today was a relaxing day,1
+1860,16,unknown,1,2024-08-29,2024-08-29,I feel hopeless about my future,1
+1860,19,unknown,1,2024-10-10,2024-10-10,I have no motivation anymore,1
+1861,0,unknown,0,2024-03-09,2024-03-09,Today was a relaxing day,1
+1861,4,unknown,0,2024-05-07,2024-05-07,I feel happy and motivated,1
+1861,7,unknown,1,2024-06-19,2024-06-19,Life feels meaningless,1
+1861,11,unknown,0,2024-08-13,2024-08-13,Today was productive and fun,1
+1872,0,unknown,0,2024-02-25,2024-02-25,I watched a great movie today,1
+1872,4,unknown,1,2024-05-01,2024-05-01,I can't find joy in anything,1
+1872,5,unknown,1,2024-05-12,2024-05-12,I feel hopeless about my future,1
+1872,7,unknown,1,2024-06-14,2024-06-14,I feel empty inside,1
+1872,8,unknown,1,2024-06-27,2024-06-27,I feel like nobody understands me,1
+1872,16,unknown,1,2024-10-15,2024-10-15,I can't find joy in anything,1
+1872,18,unknown,0,2024-11-03,2024-11-03,I enjoyed a nice walk outside,1
+1907,0,unknown,0,2024-01-16,2024-01-16,Today was a relaxing day,1
+1907,2,unknown,0,2024-02-21,2024-02-21,I had a good conversation today,1
+1907,8,unknown,0,2024-05-09,2024-05-09,I watched a great movie today,1
+1907,10,unknown,0,2024-06-07,2024-06-07,I enjoyed spending time with friends,1
+1907,13,unknown,1,2024-07-20,2024-07-20,I have no motivation anymore,1
+1907,19,unknown,0,2024-10-10,2024-10-10,I had a good conversation today,1
+1907,24,unknown,1,2024-12-18,2024-12-18,I feel hopeless about my future,1
+1913,0,unknown,1,2024-01-03,2024-01-16,I feel very sad and lonely </s> I feel hopeless about my future,2
+1913,4,unknown,0,2024-02-28,2024-02-28,Today was productive and fun,1
+1913,12,unknown,0,2024-06-27,2024-06-27,I watched a great movie today,1
+1913,21,unknown,1,2024-10-29,2024-10-29,I can't find joy in anything,1
+1913,22,unknown,0,2024-11-11,2024-11-11,Today was productive and fun,1
+1913,23,unknown,0,2024-11-25,2024-11-25,I had a great day today,1
+1917,0,unknown,0,2024-01-10,2024-01-10,Today was a relaxing day,1
+1917,11,unknown,1,2024-06-18,2024-06-18,I feel empty inside,1
+1917,14,unknown,0,2024-07-25,2024-07-25,I am excited about tomorrow,1
+1917,22,unknown,1,2024-11-21,2024-11-21,I feel like nobody understands me,1
+1917,23,unknown,0,2024-12-09,2024-12-09,Today was productive and fun,1
+1920,0,unknown,1,2024-01-17,2024-01-17,Nothing makes me happy anymore,1
+1920,8,unknown,0,2024-05-21,2024-05-21,I am excited about tomorrow,1
+1920,12,unknown,1,2024-07-14,2024-07-14,Nothing makes me happy anymore,1
+1920,14,unknown,1,2024-08-03,2024-08-03,Life feels meaningless,1
+1920,17,unknown,0,2024-09-15,2024-09-15,I enjoyed a nice walk outside,1
+1920,21,unknown,0,2024-11-07,2024-11-07,Today was productive and fun,1
+1920,23,unknown,0,2024-12-06,2024-12-06,I am excited about tomorrow,1
+1920,24,unknown,0,2024-12-21,2024-12-21,I watched a great movie today,1
+1922,0,unknown,1,2024-07-16,2024-07-16,I feel like nobody understands me,1
+1922,1,unknown,0,2024-08-05,2024-08-05,I enjoyed spending time with friends,1
+1922,3,unknown,1,2024-09-01,2024-09-01,I have no motivation anymore,1
+1922,10,unknown,1,2024-12-14,2024-12-14,I have no motivation anymore,1
+1924,0,unknown,1,2024-05-25,2024-05-25,I have no motivation anymore,1
+1924,3,unknown,1,2024-07-07,2024-07-07,I feel very sad and lonely,1
+1924,4,unknown,1,2024-07-24,2024-07-24,I can't find joy in anything,1
+1924,7,unknown,0,2024-09-09,2024-09-09,I watched a great movie today,1
+1924,9,unknown,0,2024-09-30,2024-09-30,I enjoyed a nice walk outside,1
+1924,13,unknown,0,2024-11-29,2024-11-29,I love playing sports,1
+1924,13,unknown,1,2024-12-01,2024-12-01,I feel hopeless about my future,1
+1924,15,unknown,1,2024-12-24,2024-12-24,I feel like nobody understands me,1
+1925,0,unknown,1,2024-05-02,2024-05-02,I feel empty inside,1
+1925,4,unknown,0,2024-07-06,2024-07-06,I watched a great movie today,1
+1925,11,unknown,0,2024-10-12,2024-10-12,I love playing sports,1
+1931,0,unknown,0,2024-03-02,2024-03-02,I had a great day today,1
+1932,0,unknown,0,2024-01-11,2024-01-11,I had a good conversation today,1
+1932,7,unknown,1,2024-05-01,2024-05-01,I feel empty inside,1
+1932,21,unknown,1,2024-11-09,2024-11-09,I feel very sad and lonely,1
+1932,23,unknown,0,2024-11-30,2024-12-02,Today was productive and fun </s> Today was a relaxing day,2
+1933,0,unknown,0,2024-01-18,2024-01-18,I had a good conversation today,1
+1933,4,unknown,0,2024-03-20,2024-03-20,I had a good conversation today,1
+1933,9,unknown,0,2024-05-31,2024-06-05,I enjoyed spending time with friends </s> I enjoyed spending time with friends,2
+1933,10,unknown,1,2024-06-07,2024-06-07,I can't find joy in anything,1
+1933,12,unknown,0,2024-07-17,2024-07-17,I watched a great movie today,1
+1933,15,unknown,0,2024-08-19,2024-08-19,I watched a great movie today,1
+1935,0,unknown,1,2024-01-24,2024-02-03,Life feels meaningless </s> I feel very sad and lonely,2
+1935,6,unknown,1,2024-04-30,2024-04-30,I feel empty inside,1
+1935,7,unknown,0,2024-05-06,2024-05-06,I enjoyed spending time with friends,1
+1935,7,unknown,1,2024-05-14,2024-05-14,Nothing makes me happy anymore,1
+1935,10,unknown,1,2024-06-13,2024-06-13,Life feels meaningless,1
+1935,11,unknown,0,2024-06-27,2024-06-27,I had a great day today,1
+1935,18,unknown,1,2024-10-08,2024-10-08,I have no motivation anymore,1
+1939,0,unknown,1,2024-01-27,2024-01-27,I feel very sad and lonely,1
+1939,7,unknown,0,2024-05-04,2024-05-04,I enjoyed a nice walk outside,1
+1939,8,unknown,0,2024-05-24,2024-05-24,I feel happy and motivated,1
+1939,15,unknown,1,2024-08-24,2024-08-24,Nothing makes me happy anymore,1
+1939,16,unknown,0,2024-09-19,2024-09-19,I feel happy and motivated,1
+1939,16,unknown,1,2024-09-09,2024-09-09,Nothing makes me happy anymore,1
+1939,19,unknown,1,2024-10-30,2024-10-30,Nothing makes me happy anymore,1
+1940,0,unknown,0,2024-01-14,2024-01-20,Today was a relaxing day </s> I watched a great movie today,2
+1940,1,unknown,0,2024-02-06,2024-02-06,I am excited about tomorrow,1
+1940,15,unknown,1,2024-08-23,2024-08-23,I can't find joy in anything,1
+1940,16,unknown,0,2024-08-30,2024-08-30,I am excited about tomorrow,1
+1940,20,unknown,0,2024-10-21,2024-10-21,I had a great day today,1
+1941,0,unknown,1,2024-07-24,2024-07-24,I feel tired of everything,1
+1941,10,unknown,0,2024-12-20,2024-12-20,I enjoyed a nice walk outside,1
+1941,11,unknown,1,2024-12-25,2024-12-25,Life feels meaningless,1
+1942,0,unknown,0,2024-04-04,2024-04-04,I watched a great movie today,1
+1942,14,unknown,0,2024-10-27,2024-10-27,I had a great day today,1
+1942,18,unknown,0,2024-12-16,2024-12-16,I enjoyed a nice walk outside,1
+1944,0,unknown,1,2024-01-05,2024-01-05,Nothing makes me happy anymore,1
+1944,3,unknown,0,2024-02-21,2024-02-21,Today was a relaxing day,1
+1944,4,unknown,1,2024-03-07,2024-03-07,Life feels meaningless,1
+1944,7,unknown,1,2024-04-17,2024-04-17,I can't find joy in anything,1
+1944,12,unknown,0,2024-07-01,2024-07-01,I enjoyed a nice walk outside,1
+1944,14,unknown,0,2024-07-29,2024-07-29,I watched a great movie today,1
+1944,16,unknown,0,2024-08-21,2024-08-21,Today was productive and fun,1
+1944,16,unknown,1,2024-08-25,2024-08-25,I feel tired of everything,1
+1944,25,unknown,0,2024-12-28,2024-12-28,I had a great day today,1
+1946,0,unknown,1,2024-06-20,2024-06-20,I feel like nobody understands me,1
+1946,12,unknown,1,2024-12-16,2024-12-16,I feel very lonely these days,1
+1951,0,unknown,0,2024-05-09,2024-05-09,Today was a relaxing day,1
+1951,3,unknown,0,2024-07-01,2024-07-01,I watched a great movie today,1
+1951,7,unknown,0,2024-08-28,2024-08-28,I am excited about tomorrow,1
+1951,7,unknown,1,2024-08-18,2024-08-18,I feel very sad and lonely,1
+1951,10,unknown,0,2024-09-30,2024-09-30,I feel happy and motivated,1
+1951,14,unknown,0,2024-12-01,2024-12-01,I love playing sports,1
+1951,16,unknown,1,2024-12-27,2024-12-27,Life feels meaningless,1
+1957,0,unknown,0,2024-03-09,2024-03-09,I am excited about tomorrow,1
+1957,0,unknown,1,2024-02-27,2024-02-27,I feel tired of everything,1
+1957,4,unknown,0,2024-05-06,2024-05-06,I had a great day today,1
+1957,6,unknown,0,2024-06-02,2024-06-02,I watched a great movie today,1
+1957,10,unknown,0,2024-07-20,2024-07-20,I had a good conversation today,1
+1958,0,unknown,1,2024-02-23,2024-02-23,I feel very sad and lonely,1
+1958,1,unknown,1,2024-03-14,2024-03-14,I feel tired of everything,1
+1958,8,unknown,1,2024-06-24,2024-06-24,Life feels meaningless,1
+1958,9,unknown,1,2024-07-06,2024-07-06,I have no motivation anymore,1
+1960,0,unknown,0,2024-05-22,2024-05-22,I had a good conversation today,1
+1960,1,unknown,0,2024-06-08,2024-06-08,I feel happy and motivated,1
+1960,5,unknown,1,2024-08-07,2024-08-07,I feel very lonely these days,1
+1960,14,unknown,1,2024-12-13,2024-12-13,I have no motivation anymore,1
+1962,0,unknown,1,2024-02-10,2024-02-10,I can't find joy in anything,1
+1962,2,unknown,0,2024-03-09,2024-03-09,Today was a relaxing day,1
+1962,5,unknown,1,2024-04-25,2024-04-25,Life feels meaningless,1
+1962,6,unknown,0,2024-05-07,2024-05-07,I feel happy and motivated,1
+1962,8,unknown,0,2024-06-10,2024-06-10,I feel happy and motivated,1
+1966,0,unknown,0,2024-07-10,2024-07-14,I had a great day today </s> I feel happy and motivated,2
+1966,8,unknown,0,2024-11-10,2024-11-10,I watched a great movie today,1
+1988,0,unknown,0,2024-05-18,2024-05-18,I am excited about tomorrow,1
+1988,13,unknown,0,2024-11-21,2024-11-21,I enjoyed spending time with friends,1
+1991,0,unknown,1,2024-03-31,2024-03-31,I have no motivation anymore,1
+1991,4,unknown,1,2024-06-05,2024-06-05,I feel tired of everything,1
+1991,6,unknown,0,2024-06-24,2024-06-24,I am excited about tomorrow,1
+1991,15,unknown,0,2024-11-01,2024-11-01,I had a good conversation today,1
+1993,0,unknown,1,2024-04-02,2024-04-02,I feel tired of everything,1
+1993,7,unknown,0,2024-07-18,2024-07-18,I had a good conversation today,1
+1993,9,unknown,0,2024-08-11,2024-08-11,I am excited about tomorrow,1
+1993,12,unknown,0,2024-09-18,2024-09-18,I feel happy and motivated,1
+1994,0,unknown,1,2024-01-12,2024-01-12,I feel tired of everything,1
+1994,3,unknown,1,2024-02-28,2024-02-28,I feel tired of everything,1
+1994,8,unknown,0,2024-05-09,2024-05-09,I had a good conversation today,1
+1994,13,unknown,1,2024-07-25,2024-07-25,Life feels meaningless,1
+1994,20,unknown,0,2024-10-21,2024-10-21,I love playing sports,1
+1994,24,unknown,1,2024-12-19,2024-12-19,I feel very lonely these days,1
