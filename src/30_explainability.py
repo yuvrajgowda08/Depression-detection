@@ -3,7 +3,6 @@ import pandas as pd
 import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-# Baseline interpretability: top LR features :contentReference[oaicite:17]{index=17}
 lr = joblib.load("outputs/tfidf_lr.joblib")
 tfidf: TfidfVectorizer = lr.named_steps["tfidf"]
 clf = lr.named_steps["clf"]
