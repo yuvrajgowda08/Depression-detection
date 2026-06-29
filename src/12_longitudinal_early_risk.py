@@ -25,13 +25,11 @@ def embed_texts(texts, batch_size=16):
         batch = texts[i:i+batch_size]
         tok = tokenizer(batch, truncation=True, padding=True, max_length=MAX_LEN, return_tensors="pt").to(DEVICE)
         out = encoder(**tok)
-        # CLS embedding
         cls = out.last_hidden_state[:,0,:].detach().cpu().numpy()
         embs.append(cls)
     return np.vstack(embs)
 
 def make_sequences(df):
-    # each user => ordered windows => sequence of embeddings
     df = df.copy()
     df["window_start"] = pd.to_datetime(df["window_start"])
     df = df.sort_values(["user_id","window_start"])
@@ -107,11 +105,9 @@ def eval_f1(model, dl):
         pred = logits.argmax(1)
         ys.extend(y.numpy().tolist())
         ps.extend(pred.tolist())
-    # simple F1
     from sklearn.metrics import f1_score
     return f1_score(ys, ps)
 
-# build sequences per split
 _, tr_seqs, tr_y = make_sequences(df_tr)
 _, va_seqs, va_y = make_sequences(df_va)
 _, te_seqs, te_y = make_sequences(df_te)
