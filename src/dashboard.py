@@ -13,7 +13,6 @@ st.set_page_config(
     layout="wide"
 )
 
-# Load CSS
 with open("assets/style.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
@@ -24,7 +23,6 @@ model = joblib.load("outputs/tfidf_lr.joblib")
 
 tab1, tab2, tab3 = st.tabs(["🔍 Analyze Emotion","📊 Mental Health Trends","🤖 AI Assistant"])
 
-# -------- TEXT ANALYSIS --------
 
 with tab1:
 
@@ -45,13 +43,11 @@ if st.button("Analyze Emotion"):
     else:
         st.success("✓ Emotion looks Healthy")
 
-    # GET LLM EXPLANATION
     explanation = explain_prediction(text, prediction)
 
     st.subheader("🧠 AI Explanation")
     st.write(explanation)
 
-# -------- CHARTS --------
 
 with tab2:
 
@@ -69,7 +65,6 @@ with tab2:
 
     st.plotly_chart(fig, width="stretch")
 
-# -------- CHATBOT --------
 
 with tab3:
 
