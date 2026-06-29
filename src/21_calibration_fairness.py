@@ -19,15 +19,12 @@ def ece(probs, y, n_bins=10):
 df = pd.read_csv("data/splits/test.csv")
 model = joblib.load("outputs/tfidf_lr.joblib")
 
-# LR has predict_proba
 probs = model.predict_proba(df["text"].tolist())[:,1]
 y = df["label"].values
 
 print("ECE:", ece(probs,y))
 print("Brier:", brier_score_loss(y, probs))
 
-# Fairness by activity strata (n_posts) :contentReference[oaicite:14]{index=14}
-# If test.csv contains n_posts per window, aggregate per user for strata:
 if "n_posts" in df.columns:
     user_activity = df.groupby("user_id")["n_posts"].sum()
     q1,q2 = user_activity.quantile([0.33,0.66]).values
@@ -38,7 +35,6 @@ if "n_posts" in df.columns:
         else: strata[uid]="high"
     df["activity"] = df["user_id"].map(strata)
 
-    # compute F1 per stratum
     pred = (probs>=0.5).astype(int)
     from sklearn.metrics import f1_score
     for g in ["low","mid","high"]:
