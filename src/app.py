@@ -1,7 +1,6 @@
 import streamlit as st
 import joblib
 
-# load trained model
 model = joblib.load("outputs/tfidf_lr.joblib")
 
 st.title("Depression Detection from Text")
