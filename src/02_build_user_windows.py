@@ -6,15 +6,13 @@ ensure_dir("data/processed")
 df = pd.read_csv("data/processed/posts_clean.csv")
 df["timestamp"] = pd.to_datetime(df["timestamp"])
 
-# Choose window size (e.g., 14 days)
+
 WINDOW_DAYS = 14
 
-# bucket by window index per user
 df = df.sort_values(["user_id", "timestamp"])
 df["t0"] = df.groupby("user_id")["timestamp"].transform("min")
 df["window_id"] = ((df["timestamp"] - df["t0"]).dt.days // WINDOW_DAYS).astype(int)
 
-# aggregate text per (user, window)
 agg = (
     df.groupby(["user_id", "window_id", "domain", "label"], as_index=False)
       .agg(
