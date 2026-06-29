@@ -1,7 +1,6 @@
 import joblib
 from ollama_explainer import explain_prediction
 
-# load trained model
 model = joblib.load("outputs/tfidf_lr.joblib")
 
 while True:
