@@ -5,7 +5,6 @@ ensure_dir("data/processed")
 df = load_posts("data/raw/posts.csv")
 df["text_clean"] = df["text"].apply(basic_clean)
 
-# remove empty
 df = df[df["text_clean"].str.len() > 0].copy()
 
 out = "data/processed/posts_clean.csv"
